@@ -9,3 +9,7 @@
 
 1. [Deep Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html), CVPR'20
 
+## Outlier Detection
+
+1. [Deep Clustering based Fair Outlier Detection](https://arxiv.org/pdf/2106.05127.pdf), KDD'21
+
