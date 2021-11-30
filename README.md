@@ -35,7 +35,7 @@
 1. [A General Approach to Fairness with Optimal Transport](), AAAI'20
 1. [Feature Noise Induces Loss Discrepancy Across Groups](), ICML'20
 1. [Inherent Tradeoffs in Learning Fair Representations](https://papers.nips.cc/paper/2019/hash/b4189d9de0fb2b9cce090bd1a15e3420-Abstract.html), NeurIPS'19
-1. [Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions], ICML'19
+1. [Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions](), ICML'19
 1. [Wasserstein Fair Classification](), UAI'19
 1. [Why Is My Classifier Discriminatory?](), NeurIPS'18
 1. [Empirical Risk Minimization Under Fairness Constraints](), NeurIPS'18
@@ -49,7 +49,7 @@
 ## Fair Ranking
 
 1. [Fairness and Bias in Online Selection](), ICML'21
-1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric], NeurIPS'19
+1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric](), NeurIPS'19
 
 ## Empirical Study
 
