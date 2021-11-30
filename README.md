@@ -8,8 +8,9 @@
 
 ## Rawlsian Max Min Fairness
 
-1. [Fairness Without Demographics in Repeated Loss Minimization](http://proceedings.mlr.press/v80/hashimoto18a.html), ICML'18
+1. [Adaptive Sampling for Minimax Fair Classification](), NeurIPS'21
 1. [Fairness without Demographics through Adversarially Reweighted Learning](), NeurIPS'20
+1. [Fairness Without Demographics in Repeated Loss Minimization](http://proceedings.mlr.press/v80/hashimoto18a.html), ICML'18
 
 ## Fair Clustering
 
@@ -31,9 +32,15 @@
 1. [Testing Group Fairness via Optimal Transport Projections](), ICML'21
 1. [Fairness with Overlapping Groups](), NeurIPS'20
 1. [Conditional Learning of Fair Representations](https://openreview.net/pdf?id=Hkekl0NFPr), ICLR'20
-1. [A General Approach to Fairness with Optimal Transport], AAAI'20
+1. [A General Approach to Fairness with Optimal Transport](), AAAI'20
+1. [Feature Noise Induces Loss Discrepancy Across Groups](), ICML'20
 1. [Inherent Tradeoffs in Learning Fair Representations](https://papers.nips.cc/paper/2019/hash/b4189d9de0fb2b9cce090bd1a15e3420-Abstract.html), NeurIPS'19
-1. [Wasserstein Fair Classification], UAI'19
+1. [Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions], ICML'19
+1. [Wasserstein Fair Classification](), UAI'19
+1. [Why Is My Classifier Discriminatory?](), NeurIPS'18
+1. [Empirical Risk Minimization Under Fairness Constraints](), NeurIPS'18
+1. [Fairness Constraints: Mechanisms for Fair Classification](), AISTATS‘17
+1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](), WWW'17
 
 ## Fair Outlier Detection
 
@@ -42,4 +49,23 @@
 ## Fair Ranking
 
 1. [Fairness and Bias in Online Selection](), ICML'21
+1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric], NeurIPS'19
+
+## Empirical Study
+
+1. [Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training](), NeurIPS'21
+
+## General
+
+1. [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](), CHI'19
+
+## Dataset
+
+1. [Communities and Crime Data Set](https://archive.ics.uci.edu/ml/datasets/communities+and+crime)
+1. [Statlog (German Credit Data) Data Set](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+1. [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+1. [Adult Data Set](https://archive.ics.uci.edu/ml/datasets/adult)
+1. [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
+1. [Arrhythmia Data Set](https://archive.ics.uci.edu/ml/datasets/arrhythmia)
+1. [LSAC National Longitudinal Bar Passage Study](https://eric.ed.gov/?id=ED469370)
 
