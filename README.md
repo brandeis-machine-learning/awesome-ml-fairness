@@ -1,11 +1,15 @@
 # Awesome Machine Learning Fairness [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> We collect a range of online resources on machine learning fairness.
+> We collect a range of online resources on machine learning fairness.  
+> Not completed yet, work in process...  
+> Contact: *peizhaoli@brandeis.edu*
+
 
 ## Survey
 
 1. [An Overview of Fairness in Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9541160), IEEE Access'21
 1. [Fairness in Machine Learning: A Survey](https://arxiv.org/abs/2010.04053), arXiv'20
+1. [A Survey on Bias and Fairness in Machine Learning](), arXiv'19
 1. [The Frontiers of Fairness in Machine Learning](https://arxiv.org/abs/1810.08810), arXiv'18
 
 ## General
@@ -29,6 +33,7 @@
 1. [Empirical Risk Minimization Under Fairness Constraints](), NeurIPS'18
 1. [Fairness Constraints: Mechanisms for Fair Classification](), AISTATS‘17
 1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](), WWW'17
+1. [Data preprocessing techniques for classification without discrimination](https://link.springer.com/content/pdf/10.1007/s10115-011-0463-8.pdf), Knowledge and Information Systems'12
 
 ## Individual Fairness
 
@@ -46,10 +51,12 @@
 
 ## Fairness in Graph
 
+1. [Correcting Exposure Bias for Link Recommendation](), ICML'21
 1. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), ICLR'21
 
 ## Fair Clustering
 
+1. [Approximate Group Fairness for Clustering](), ICML'21
 1. [Variational Fair Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17336/17143), AAAI'21
 1. [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html), CVPR'20
 1. [Fair Algorithms for Clustering](https://papers.nips.cc/paper/2019/file/fc192b0c0d270dbf41870a63a8c76c2f-Paper.pdf), NeurIPS'19
@@ -60,15 +67,24 @@
 ## Fair Outlier Detection
 
 1. [Deep Clustering based Fair Outlier Detection](https://arxiv.org/pdf/2106.05127.pdf), KDD'21
+1. [FairOD: Fairness-aware Outlier Detection](https://dl.acm.org/doi/pdf/10.1145/3461702.3462517), AIES'21
 
 ## Fair Ranking
 
+1. [On the Problem of Underranking in Group-Fair Ranking](), ICML'21
 1. [Fairness and Bias in Online Selection](), ICML'21
 1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric](), NeurIPS'19
 
 ## Generation
 
+1. [Fairness for Image Generation with Uncertain Sensitive Attributes](), ICML'21
 1. [FairGAN: Fairness-aware Generative Adversarial Networks](http://www.csce.uark.edu/~xintaowu/publ/bigdata18.pdf), BigData'18
+
+## Fairness and Robustness
+
+1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](), ICML'21
+1. [Exacerbating Algorithmic Bias through Fairness Attacks](), AAAI'21
+1. [Poisoning Attacks on Algorithmic Fairness](), ECML'20
 
 ## Empirical Study
 
@@ -83,3 +99,4 @@
 1. [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
 1. [Arrhythmia Data Set](https://archive.ics.uci.edu/ml/datasets/arrhythmia)
 1. [LSAC National Longitudinal Bar Passage Study](https://eric.ed.gov/?id=ED469370)
+1. [Medical Expenditure Panel Survey Data](https://meps.ahrq.gov/mepsweb/)
