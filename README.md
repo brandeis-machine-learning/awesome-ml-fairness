@@ -7,21 +7,21 @@
 
 ## Survey
 
+1. [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3457607), ACM Computing Surveys'21
 1. [An Overview of Fairness in Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9541160), IEEE Access'21
 1. [Fairness in Machine Learning: A Survey](https://arxiv.org/abs/2010.04053), arXiv'20
-1. [A Survey on Bias and Fairness in Machine Learning](), arXiv'19
 1. [The Frontiers of Fairness in Machine Learning](https://arxiv.org/abs/1810.08810), arXiv'18
 
 ## General
 
-1. [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](), CHI'19
+1. [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://dl.acm.org/doi/pdf/10.1145/3290605.3300830), CHI'19
 
 ## Group Fairness in Classification
 
-1. [Characterizing Fairness Over the Set of Good Models Under Selective Labels](), ICML'21
-1. [Fair Selective Classification via Sufficiency](), ICML'21
-1. [Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees](), ICML'21
-1. [Testing Group Fairness via Optimal Transport Projections](), ICML'21
+1. [Characterizing Fairness Over the Set of Good Models Under Selective Labels](http://proceedings.mlr.press/v139/coston21a/coston21a.pdf), ICML'21
+1. [Fair Selective Classification via Sufficiency](http://proceedings.mlr.press/v139/lee21b/lee21b.pdf), ICML'21
+1. [Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees](http://proceedings.mlr.press/v139/celis21a/celis21a.pdf), ICML'21
+1. [Testing Group Fairness via Optimal Transport Projections](http://proceedings.mlr.press/v139/si21a/si21a.pdf), ICML'21
 1. [Fairness with Overlapping Groups](), NeurIPS'20
 1. [Conditional Learning of Fair Representations](https://openreview.net/pdf?id=Hkekl0NFPr), ICLR'20
 1. [A General Approach to Fairness with Optimal Transport](), AAAI'20
@@ -31,6 +31,8 @@
 1. [Wasserstein Fair Classification](), UAI'19
 1. [Why Is My Classifier Discriminatory?](), NeurIPS'18
 1. [Empirical Risk Minimization Under Fairness Constraints](), NeurIPS'18
+1. [A Reductions Approach to Fair Classification](http://proceedings.mlr.press/v80/agarwal18a/agarwal18a.pdf), ICML'18
+1. [Adaptive Sensitive Reweighting to Mitigate Bias in Fairness-aware Classification](https://dl.acm.org/doi/pdf/10.1145/3178876.3186133), WWW'18
 1. [Fairness Constraints: Mechanisms for Fair Classification](), AISTATS‘17
 1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](), WWW'17
 1. [Data preprocessing techniques for classification without discrimination](https://link.springer.com/content/pdf/10.1007/s10115-011-0463-8.pdf), Knowledge and Information Systems'12
@@ -51,12 +53,12 @@
 
 ## Fairness in Graph
 
-1. [Correcting Exposure Bias for Link Recommendation](), ICML'21
+1. [Correcting Exposure Bias for Link Recommendation](http://proceedings.mlr.press/v139/gupta21c/gupta21c.pdf), ICML'21
 1. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), ICLR'21
 
 ## Fair Clustering
 
-1. [Approximate Group Fairness for Clustering](), ICML'21
+1. [Approximate Group Fairness for Clustering](http://proceedings.mlr.press/v139/li21j/li21j.pdf), ICML'21
 1. [Variational Fair Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17336/17143), AAAI'21
 1. [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html), CVPR'20
 1. [Fair Algorithms for Clustering](https://papers.nips.cc/paper/2019/file/fc192b0c0d270dbf41870a63a8c76c2f-Paper.pdf), NeurIPS'19
@@ -71,24 +73,29 @@
 
 ## Fair Ranking
 
-1. [On the Problem of Underranking in Group-Fair Ranking](), ICML'21
-1. [Fairness and Bias in Online Selection](), ICML'21
+1. [On the Problem of Underranking in Group-Fair Ranking](http://proceedings.mlr.press/v139/gorantla21a/gorantla21a.pdf), ICML'21
+1. [Fairness and Bias in Online Selection](http://proceedings.mlr.press/v139/correa21a/correa21a.pdf), ICML'21
 1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric](), NeurIPS'19
 
 ## Generation
 
-1. [Fairness for Image Generation with Uncertain Sensitive Attributes](), ICML'21
+1. [Fairness for Image Generation with Uncertain Sensitive Attributes](http://proceedings.mlr.press/v139/jalal21b/jalal21b.pdf), ICML'21
 1. [FairGAN: Fairness-aware Generative Adversarial Networks](http://www.csce.uark.edu/~xintaowu/publ/bigdata18.pdf), BigData'18
 
 ## Fairness and Robustness
 
-1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](), ICML'21
+1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](http://proceedings.mlr.press/v139/xu21b/xu21b.pdf), ICML'21
 1. [Exacerbating Algorithmic Bias through Fairness Attacks](), AAAI'21
 1. [Poisoning Attacks on Algorithmic Fairness](), ECML'20
 
 ## Empirical Study
 
 1. [Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training](), NeurIPS'21
+
+## Toolkit
+
+1. [AI Fairness 360](https://aif360.mybluemix.net/), IBM
+2. [Fairlearn: A toolkit for assessing and improving fairness in AI](https://www.microsoft.com/en-us/research/publication/fairlearn-a-toolkit-for-assessing-and-improving-fairness-in-ai/), Microsoft
 
 ## Dataset
 
