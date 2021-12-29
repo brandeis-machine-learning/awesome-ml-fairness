@@ -85,8 +85,8 @@
 ## Fairness and Robustness
 
 1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](http://proceedings.mlr.press/v139/xu21b/xu21b.pdf), ICML'21
-1. [Exacerbating Algorithmic Bias through Fairness Attacks](), AAAI'21
-1. [Poisoning Attacks on Algorithmic Fairness](), ECML'20
+1. [Exacerbating Algorithmic Bias through Fairness Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/17080/16887), AAAI'21
+1. [Poisoning Attacks on Algorithmic Fairness](https://repositori.upf.edu/bitstream/handle/10230/47626/solans_ecmlpkdd_poiso.pdf?sequence=1&isAllowed=y), ECML'20
 
 ## Empirical Study
 
