@@ -39,6 +39,7 @@
 
 ## Individual Fairness
 
+1. [Post-processing for Individual Fairness](https://papers.nips.cc/paper/2021/file/d9fea4ca7e4a74c318ec27c1deb0796c-Paper.pdf), NeurIPS'21
 1. [SenSeI: Sensitive Set Invariance for Enforcing Individual Fairness](https://openreview.net/pdf?id=DktZb97_Fx), ICLR'21
 1. [Learning Certified Individually Fair Representations](https://papers.nips.cc/paper/2020/hash/55d491cf951b1b920900684d71419282-Abstract.html), NeurIPS'20
 1. [Two Simple Ways to Learn Individual Fairness Metrics from Data](http://proceedings.mlr.press/v119/mukherjee20a), ICML'20
@@ -47,7 +48,7 @@
 
 ## Rawlsian Max Min Fairness
 
-1. [Adaptive Sampling for Minimax Fair Classification](), NeurIPS'21
+1. [Adaptive Sampling for Minimax Fair Classification](https://papers.nips.cc/paper/2021/file/cd7c230fc5deb01ff5f7b1be1acef9cf-Paper.pdf), NeurIPS'21
 1. [Fairness without Demographics through Adversarially Reweighted Learning](), NeurIPS'20
 1. [Fairness Without Demographics in Repeated Loss Minimization](http://proceedings.mlr.press/v80/hashimoto18a.html), ICML'18
 
@@ -58,6 +59,8 @@
 
 ## Fair Clustering
 
+1. [Fair Clustering Under a Bounded Cost](https://papers.nips.cc/paper/2021/file/781877bda0783aac5f1cf765c128b437-Paper.pdf), NeurIPS'21
+1. [Better Algorithms for Individually Fair k-Clustering](https://papers.nips.cc/paper/2021/file/6f221fcb5c504fe96789df252123770b-Paper.pdf), NeurIPS'21
 1. [Approximate Group Fairness for Clustering](http://proceedings.mlr.press/v139/li21j/li21j.pdf), ICML'21
 1. [Variational Fair Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17336/17143), AAAI'21
 1. [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html), CVPR'20
@@ -73,6 +76,7 @@
 
 ## Fair Ranking
 
+1. [Fairness in Ranking under Uncertainty](https://papers.nips.cc/paper/2021/file/63c3ddcc7b23daa1e42dc41f9a44a873-Paper.pdf), NeurIPS'21
 1. [On the Problem of Underranking in Group-Fair Ranking](http://proceedings.mlr.press/v139/gorantla21a/gorantla21a.pdf), ICML'21
 1. [Fairness and Bias in Online Selection](http://proceedings.mlr.press/v139/correa21a/correa21a.pdf), ICML'21
 1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric](), NeurIPS'19
@@ -84,8 +88,10 @@
 
 ## Fairness and Robustness
 
+1. [Sample Selection for Fair and Robust Training](https://papers.nips.cc/paper/2021/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf), NeurIPS'21
 1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](http://proceedings.mlr.press/v139/xu21b/xu21b.pdf), ICML'21
 1. [Exacerbating Algorithmic Bias through Fairness Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/17080/16887), AAAI'21
+1. [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](http://proceedings.mlr.press/v119/roh20a/roh20a.pdf), ICML'20
 1. [Poisoning Attacks on Algorithmic Fairness](https://repositori.upf.edu/bitstream/handle/10230/47626/solans_ecmlpkdd_poiso.pdf?sequence=1&isAllowed=y), ECML'20
 
 ## Empirical Study
@@ -95,7 +101,7 @@
 ## Toolkit
 
 1. [AI Fairness 360](https://aif360.mybluemix.net/), IBM
-2. [Fairlearn: A toolkit for assessing and improving fairness in AI](https://www.microsoft.com/en-us/research/publication/fairlearn-a-toolkit-for-assessing-and-improving-fairness-in-ai/), Microsoft
+1. [Fairlearn: A toolkit for assessing and improving fairness in AI](https://www.microsoft.com/en-us/research/publication/fairlearn-a-toolkit-for-assessing-and-improving-fairness-in-ai/), Microsoft
 
 ## Dataset
 
@@ -107,3 +113,5 @@
 1. [Arrhythmia Data Set](https://archive.ics.uci.edu/ml/datasets/arrhythmia)
 1. [LSAC National Longitudinal Bar Passage Study](https://eric.ed.gov/?id=ED469370)
 1. [Medical Expenditure Panel Survey Data](https://meps.ahrq.gov/mepsweb/)
+1. [Drug consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29)
+1. [Retiring Adult: New Datasets for Fair Machine Learning](https://papers.nips.cc/paper/2021/file/32e54441e6382a7fbacbbbaf3c450059-Paper.pdf)
