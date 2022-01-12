@@ -9,6 +9,9 @@
 
 1. [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3457607), ACM Computing Surveys'21
 1. [An Overview of Fairness in Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9541160), IEEE Access'21
+1. [Trustworthy AI: A Computational Perspective](https://arxiv.org/pdf/2107.06641.pdf), arXiv'21
+1. [Algorithm Fairness in AI for Medicine and Healthcare](https://arxiv.org/pdf/2110.00603.pdf), arXiv'21
+1. [Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/pdf/2101.02032.pdf), arXiv'21
 1. [Fairness in Machine Learning: A Survey](https://arxiv.org/abs/2010.04053), arXiv'20
 1. [The Frontiers of Fairness in Machine Learning](https://arxiv.org/abs/1810.08810), arXiv'18
 
@@ -26,6 +29,7 @@
 1. [Conditional Learning of Fair Representations](https://openreview.net/pdf?id=Hkekl0NFPr), ICLR'20
 1. [A General Approach to Fairness with Optimal Transport](), AAAI'20
 1. [Feature Noise Induces Loss Discrepancy Across Groups](), ICML'20
+1. [Identifying and Correcting Label Bias in Machine Learning](http://proceedings.mlr.press/v108/jiang20a/jiang20a.pdf), AISTATS‘20
 1. [Inherent Tradeoffs in Learning Fair Representations](https://papers.nips.cc/paper/2019/hash/b4189d9de0fb2b9cce090bd1a15e3420-Abstract.html), NeurIPS'19
 1. [Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions](), ICML'19
 1. [Wasserstein Fair Classification](), UAI'19
@@ -35,6 +39,8 @@
 1. [Adaptive Sensitive Reweighting to Mitigate Bias in Fairness-aware Classification](https://dl.acm.org/doi/pdf/10.1145/3178876.3186133), WWW'18
 1. [Fairness Constraints: Mechanisms for Fair Classification](), AISTATS‘17
 1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](), WWW'17
+1. [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://drops.dagstuhl.de/opus/volltexte/2017/8156/pdf/LIPIcs-ITCS-2017-43.pdf), ITCS'17
+1. [Certifying and Removing Disparate Impact](https://dl.acm.org/doi/pdf/10.1145/2783258.2783311), KDD'15
 1. [Data preprocessing techniques for classification without discrimination](https://link.springer.com/content/pdf/10.1007/s10115-011-0463-8.pdf), Knowledge and Information Systems'12
 
 ## Individual Fairness
@@ -73,6 +79,7 @@
 
 1. [Deep Clustering based Fair Outlier Detection](https://arxiv.org/pdf/2106.05127.pdf), KDD'21
 1. [FairOD: Fairness-aware Outlier Detection](https://dl.acm.org/doi/pdf/10.1145/3461702.3462517), AIES'21
+1. [FairLOF: Fairness in Outlier Detection](), Data Science and Engineering'21
 
 ## Fair Ranking
 
@@ -93,10 +100,16 @@
 1. [Exacerbating Algorithmic Bias through Fairness Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/17080/16887), AAAI'21
 1. [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](http://proceedings.mlr.press/v119/roh20a/roh20a.pdf), ICML'20
 1. [Poisoning Attacks on Algorithmic Fairness](https://repositori.upf.edu/bitstream/handle/10230/47626/solans_ecmlpkdd_poiso.pdf?sequence=1&isAllowed=y), ECML'20
+1. [Stable and Fair Classification](http://proceedings.mlr.press/v97/huang19e/huang19e.pdf), ICML'19
+
+## Fair Transfer Learning
+
+1. [Fair Transfer Learning with Missing Protected Attributes](https://dl.acm.org/doi/pdf/10.1145/3306618.3314236), AIES'19
 
 ## Empirical Study
 
 1. [Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training](), NeurIPS'21
+1. [An empirical characterization of fair machine learning for clinical risk prediction](https://www.sciencedirect.com/science/article/pii/S1532046420302495), Journal of Biomedical Informatics
 
 ## Toolkit
 
