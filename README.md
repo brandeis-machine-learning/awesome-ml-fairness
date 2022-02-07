@@ -19,6 +19,7 @@
 
 1. [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://dl.acm.org/doi/pdf/10.1145/3290605.3300830), CHI'19
 1. [Big Data’s Disparate Impact](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf), California Law Review
+1. [An Analysis of the New York City Police Department’s “Stop-and-Frisk” Policy in the Context of Claims of Racial Bias](http://www.stat.columbia.edu/~gelman/research/published/frisk9.pdf), JASA'07
 
 ## Group Fairness in Classification
 
@@ -38,6 +39,8 @@
 
 1. [Conditional Learning of Fair Representations](https://openreview.net/pdf?id=Hkekl0NFPr), ICLR'20
 1. [A General Approach to Fairness with Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/5771/5627), AAAI'20
+1. [Fairness Constraints: A Flexible Approach for Fair Classification](https://www.jmlr.org/papers/volume20/18-262/18-262.pdf), JMLR'19
+1. [Fair Regression: Quantitative Definitions and Reduction-based Algorithms](), ICML'19
 1. [Wasserstein Fair Classification](http://proceedings.mlr.press/v115/jiang20a/jiang20a.pdf), UAI'19
 1. [Empirical Risk Minimization Under Fairness Constraints](https://papers.nips.cc/paper/2018/file/83cdcec08fbf90370fcf53bdd56604ff-Paper.pdf), NeurIPS'18
 1. [A Reductions Approach to Fair Classification](http://proceedings.mlr.press/v80/agarwal18a/agarwal18a.pdf), ICML'18
@@ -55,6 +58,8 @@
 1. [Inherent Tradeoffs in Learning Fair Representations](https://papers.nips.cc/paper/2019/hash/b4189d9de0fb2b9cce090bd1a15e3420-Abstract.html), NeurIPS'19
 1. [The Cost of Fairness in Binary Classification](http://proceedings.mlr.press/v81/menon18a/menon18a.pdf), FAT'18
 1. [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://drops.dagstuhl.de/opus/volltexte/2017/8156/pdf/LIPIcs-ITCS-2017-43.pdf), ITCS'17
+1. [On Fairness and Calibration](https://papers.nips.cc/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf), NeurIPS'17
+1. [Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.andrew.cmu.edu/user/achoulde/files/disparate_impact.pdf), Big Data'17
 
 ### Ohters
 
@@ -97,6 +102,7 @@
 1. [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html), CVPR'20
 1. [Fair Algorithms for Clustering](https://papers.nips.cc/paper/2019/file/fc192b0c0d270dbf41870a63a8c76c2f-Paper.pdf), NeurIPS'19
 1. [Scalable Fair Clustering](http://proceedings.mlr.press/v97/backurs19a/backurs19a.pdf), ICML'19
+1. [Fair k-Center Clustering for Data Summarization](http://proceedings.mlr.press/v97/kleindessner19a/kleindessner19a.pdf), ICML'19
 1. [Guarantees for Spectral Clustering with Fairness Constraints](http://proceedings.mlr.press/v97/kleindessner19b/kleindessner19b.pdf), ICML'19
 1. [Fair Clustering Through Fairlets](https://papers.nips.cc/paper/2017/file/978fce5bcc4eccc88ad48ce3914124a2-Paper.pdf), NeurIPS'17
 
@@ -128,9 +134,10 @@
 1. [Poisoning Attacks on Algorithmic Fairness](https://repositori.upf.edu/bitstream/handle/10230/47626/solans_ecmlpkdd_poiso.pdf?sequence=1&isAllowed=y), ECML'20
 1. [Stable and Fair Classification](http://proceedings.mlr.press/v97/huang19e/huang19e.pdf), ICML'19
 
-## Fair Transfer Learning
+## Transfer & Federated Learning
 
 1. [Does enforcing fairness mitigate biases caused by subpopulation shift?](https://papers.nips.cc/paper/2021/file/d800149d2f947ad4d64f34668f8b20f6-Paper.pdf), NeurlPS'21
+1. [Ditto: Fair and Robust Federated Learning Through Personalization](http://proceedings.mlr.press/v139/li21h/li21h.pdf), ICML'21
 1. [Fair Transfer Learning with Missing Protected Attributes](https://dl.acm.org/doi/pdf/10.1145/3306618.3314236), AIES'19
 
 ## Empirical Study
@@ -177,4 +184,5 @@
 ### Image Data
 
 1. [CelebFaces Attributes Dataset (CelebA)](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+1. [FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age](https://github.com/joojs/fairface)
 
