@@ -17,6 +17,7 @@
 
 ## General
 
+1. [Apple Card algorithm sparks gender bias allegations against Goldman Sachs](https://www.washingtonpost.com/business/2019/11/11/apple-card-algorithm-sparks-gender-bias-allegations-against-goldman-sachs/), The Washington Post'19
 1. [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://dl.acm.org/doi/pdf/10.1145/3290605.3300830), CHI'19
 1. [Big Data’s Disparate Impact](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf), California Law Review
 1. [An Analysis of the New York City Police Department’s “Stop-and-Frisk” Policy in the Context of Claims of Racial Bias](http://www.stat.columbia.edu/~gelman/research/published/frisk9.pdf), JASA'07
