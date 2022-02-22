@@ -87,7 +87,13 @@
 1. [Fairness without Demographics through Adversarially Reweighted Learning](https://papers.nips.cc/paper/2020/file/07fc15c9d169ee48573edd749d25945d-Paper.pdf), NeurIPS'20
 1. [Fairness Without Demographics in Repeated Loss Minimization](http://proceedings.mlr.press/v80/hashimoto18a.html), ICML'18
 
-## Fairness in Graph
+## Counterfactual Fairness
+
+1. [Counterfactual Fairness](https://papers.nips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf), NeurIPS'17
+1. [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf), NeurIPS'17
+1. [Avoiding Discrimination through Causal Reasoning](https://papers.nips.cc/paper/2017/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf), NeurIPS'17
+
+## Fair Graph Mining
 
 1. [Correcting Exposure Bias for Link Recommendation](http://proceedings.mlr.press/v139/gupta21c/gupta21c.pdf), ICML'21
 1. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), ICLR'21
