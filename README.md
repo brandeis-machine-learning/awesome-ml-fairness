@@ -14,13 +14,18 @@
 1. [Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/pdf/2101.02032.pdf), arXiv'21
 1. [Fairness in Machine Learning: A Survey](https://arxiv.org/abs/2010.04053), arXiv'20
 1. [The Frontiers of Fairness in Machine Learning](https://arxiv.org/abs/1810.08810), arXiv'18
+1. [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/pdf/1808.00023.pdf), arXiv'18
 
-## General
+## Book, Blog, Case Study, and Introduction
 
-1. [Apple Card algorithm sparks gender bias allegations against Goldman Sachs](https://www.washingtonpost.com/business/2019/11/11/apple-card-algorithm-sparks-gender-bias-allegations-against-goldman-sachs/), The Washington Post'19
+1. [Fairness and Machine Learning: LImitations and Opportunities](https://fairmlbook.org/pdf/fairmlbook.pdf)
+1. [Apple Card algorithm sparks gender bias allegations against Goldman Sachs](https://www.washingtonpost.com/business/2019/11/11/apple-card-algorithm-sparks-gender-bias-allegations-against-goldman-sachs/)
 1. [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://dl.acm.org/doi/pdf/10.1145/3290605.3300830), CHI'19
 1. [Big Data’s Disparate Impact](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf), California Law Review
 1. [An Analysis of the New York City Police Department’s “Stop-and-Frisk” Policy in the Context of Claims of Racial Bias](http://www.stat.columbia.edu/~gelman/research/published/frisk9.pdf), JASA'07
+1. [What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
+1. [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
+1. [Consumer-Lending Discrimination in the FinTech Era](http://faculty.haas.berkeley.edu/morse/research/papers/discrim.pdf?_ga=2.180355815.1160518121.1646542021-2138401856.1646542021)
 
 ## Group Fairness in Classification
 
@@ -70,6 +75,7 @@
 1. [Fairness with Overlapping Groups](https://papers.nips.cc/paper/2020/file/29c0605a3bab4229e46723f89cf59d83-Paper.pdf), NeurIPS'20
 1. [Feature Noise Induces Loss Discrepancy Across Groups](http://proceedings.mlr.press/v119/khani20a/khani20a.pdf), ICML'20
 1. [Why Is My Classifier Discriminatory?](https://papers.nips.cc/paper/2018/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf), NeurIPS'18
+1. [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf), FAT'18
 1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](https://dl.acm.org/doi/pdf/10.1145/3038912.3052660), WWW'17
 
 ## Individual Fairness
@@ -89,6 +95,7 @@
 
 ## Counterfactual Fairness
 
+1. [PC-Fairness: A Unified Framework for Measuring Causality-based Fairness](https://papers.nips.cc/paper/2019/file/44a2e0804995faf8d2e3b084a1e2db1d-Paper.pdf), NeurIPS'19
 1. [Counterfactual Fairness](https://papers.nips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf), NeurIPS'17
 1. [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf), NeurIPS'17
 1. [Avoiding Discrimination through Causal Reasoning](https://papers.nips.cc/paper/2017/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf), NeurIPS'17
@@ -97,6 +104,7 @@
 
 1. [Correcting Exposure Bias for Link Recommendation](http://proceedings.mlr.press/v139/gupta21c/gupta21c.pdf), ICML'21
 1. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), ICLR'21
+1. [InFoRM: Individual Fairness on Graph Mining](https://dl.acm.org/doi/pdf/10.1145/3394486.3403080), KDD'20
 1. [Fairness-Aware Explainable Recommendation over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3397271.3401051), SIGIR'20
 1. [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf), ICML'19
 
