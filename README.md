@@ -69,7 +69,7 @@
 1. [On Fairness and Calibration](https://papers.nips.cc/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf), NeurIPS'17
 1. [Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.andrew.cmu.edu/user/achoulde/files/disparate_impact.pdf), Big Data'17
 
-### Ohters
+### Others
 
 1. [Characterizing Fairness Over the Set of Good Models Under Selective Labels](http://proceedings.mlr.press/v139/coston21a/coston21a.pdf), ICML'21
 1. [Fair Selective Classification via Sufficiency](http://proceedings.mlr.press/v139/lee21b/lee21b.pdf), ICML'21
