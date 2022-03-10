@@ -26,6 +26,7 @@
 1. [What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
 1. [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
 1. [Consumer-Lending Discrimination in the FinTech Era](http://faculty.haas.berkeley.edu/morse/research/papers/discrim.pdf?_ga=2.180355815.1160518121.1646542021-2138401856.1646542021)
+1. [Apple Card Investigated After Gender Discrimination Complaints](https://www.nytimes.com/2019/11/10/business/Apple-credit-card-investigation.html)
 
 ## Group Fairness in Classification
 
@@ -43,6 +44,7 @@
 
 ### In-processing
 
+1. [Scalable and Stable Surrogates for Flexible Classifiers with Fairness Constraints](https://papers.nips.cc/paper/2021/file/fc2e6a440b94f64831840137698021e1-Paper.pdf), NeurIPS'21
 1. [Conditional Learning of Fair Representations](https://openreview.net/pdf?id=Hkekl0NFPr), ICLR'20
 1. [A General Approach to Fairness with Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/5771/5627), AAAI'20
 1. [Fairness Constraints: A Flexible Approach for Fair Classification](https://www.jmlr.org/papers/volume20/18-262/18-262.pdf), JMLR'19
@@ -83,6 +85,7 @@
 1. [Post-processing for Individual Fairness](https://papers.nips.cc/paper/2021/file/d9fea4ca7e4a74c318ec27c1deb0796c-Paper.pdf), NeurIPS'21
 1. [SenSeI: Sensitive Set Invariance for Enforcing Individual Fairness](https://openreview.net/pdf?id=DktZb97_Fx), ICLR'21
 1. [Learning Certified Individually Fair Representations](https://papers.nips.cc/paper/2020/hash/55d491cf951b1b920900684d71419282-Abstract.html), NeurIPS'20
+1. [Metric-Free Individual Fairness in Online Learning](), NeurIPS'20
 1. [Two Simple Ways to Learn Individual Fairness Metrics from Data](http://proceedings.mlr.press/v119/mukherjee20a), ICML'20
 1. [Training Individually Fair ML Models with Sensitive Subspace Robustness](https://openreview.net/pdf?id=B1gdkxHFDH), ICLR'20
 1. [Average Individual Fairness: Algorithms, Generalization and Experiments](https://proceedings.neurips.cc/paper/2019/hash/0e1feae55e360ff05fef58199b3fa521-Abstract.html), NeurIPS'19
@@ -129,6 +132,7 @@
 
 ## Fair Ranking
 
+1. [Fair algorithms for selecting citizens’ assemblies](https://www.nature.com/articles/s41586-021-03788-6.pdf), Nature'21
 1. [Fairness in Ranking under Uncertainty](https://papers.nips.cc/paper/2021/file/63c3ddcc7b23daa1e42dc41f9a44a873-Paper.pdf), NeurIPS'21
 1. [On the Problem of Underranking in Group-Fair Ranking](http://proceedings.mlr.press/v139/gorantla21a/gorantla21a.pdf), ICML'21
 1. [Fairness and Bias in Online Selection](http://proceedings.mlr.press/v139/correa21a/correa21a.pdf), ICML'21
