@@ -27,6 +27,8 @@
 1. [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
 1. [Consumer-Lending Discrimination in the FinTech Era](http://faculty.haas.berkeley.edu/morse/research/papers/discrim.pdf?_ga=2.180355815.1160518121.1646542021-2138401856.1646542021)
 1. [Apple Card Investigated After Gender Discrimination Complaints](https://www.nytimes.com/2019/11/10/business/Apple-credit-card-investigation.html)
+1. [When a Computer Program Keeps You in Jail](https://www.nytimes.com/2017/06/13/opinion/how-computers-are-harming-criminal-justice.html)
+1. [European Union regulations on algorithmic decision-making and a “right to explanation”](https://arxiv.org/pdf/1606.08813.pdf)
 
 ## Group Fairness in Classification
 
@@ -44,6 +46,7 @@
 
 ### In-processing
 
+1. [Fairness via Representation Neutralization](https://papers.nips.cc/paper/2021/file/64ff7983a47d331b13a81156e2f4d29d-Paper.pdf), NeurIPS'21
 1. [Scalable and Stable Surrogates for Flexible Classifiers with Fairness Constraints](https://papers.nips.cc/paper/2021/file/fc2e6a440b94f64831840137698021e1-Paper.pdf), NeurIPS'21
 1. [Conditional Learning of Fair Representations](https://openreview.net/pdf?id=Hkekl0NFPr), ICLR'20
 1. [A General Approach to Fairness with Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/5771/5627), AAAI'20
@@ -71,6 +74,7 @@
 
 ### Others
 
+1. [Assessing Fairness in the Presence of Missing Data](https://papers.nips.cc/paper/2021/file/85dca1d270f7f9aef00c9d372f114482-Paper.pdf), NeurIPS'21
 1. [Characterizing Fairness Over the Set of Good Models Under Selective Labels](http://proceedings.mlr.press/v139/coston21a/coston21a.pdf), ICML'21
 1. [Fair Selective Classification via Sufficiency](http://proceedings.mlr.press/v139/lee21b/lee21b.pdf), ICML'21
 1. [Testing Group Fairness via Optimal Transport Projections](http://proceedings.mlr.press/v139/si21a/si21a.pdf), ICML'21
@@ -132,6 +136,7 @@
 
 ## Fair Ranking
 
+1. [Two-sided fairness in rankings via Lorenz dominance](https://papers.nips.cc/paper/2021/file/48259990138bc03361556fb3f94c5d45-Paper.pdf), NeurIPS'21
 1. [Fair algorithms for selecting citizens’ assemblies](https://www.nature.com/articles/s41586-021-03788-6.pdf), Nature'21
 1. [Fairness in Ranking under Uncertainty](https://papers.nips.cc/paper/2021/file/63c3ddcc7b23daa1e42dc41f9a44a873-Paper.pdf), NeurIPS'21
 1. [On the Problem of Underranking in Group-Fair Ranking](http://proceedings.mlr.press/v139/gorantla21a/gorantla21a.pdf), ICML'21
@@ -140,21 +145,27 @@
 
 ## Fair Generation
 
+1. [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://papers.nips.cc/paper/2021/file/ba9fab001f67381e56e410575874d967-Paper.pdf), NeurIPS'21
 1. [Fairness for Image Generation with Uncertain Sensitive Attributes](http://proceedings.mlr.press/v139/jalal21b/jalal21b.pdf), ICML'21
 1. [FairGAN: Fairness-aware Generative Adversarial Networks](http://www.csce.uark.edu/~xintaowu/publ/bigdata18.pdf), BigData'18
 
 ## Fairness and Robustness
 
+1. [Fair Classification with Adversarial Perturbations](), NeurIPS'21
 1. [Sample Selection for Fair and Robust Training](https://papers.nips.cc/paper/2021/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf), NeurIPS'21
 1. [Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees](http://proceedings.mlr.press/v139/celis21a/celis21a.pdf), ICML'21
 1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](http://proceedings.mlr.press/v139/xu21b/xu21b.pdf), ICML'21
 1. [Exacerbating Algorithmic Bias through Fairness Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/17080/16887), AAAI'21
 1. [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](http://proceedings.mlr.press/v119/roh20a/roh20a.pdf), ICML'20
 1. [Poisoning Attacks on Algorithmic Fairness](https://repositori.upf.edu/bitstream/handle/10230/47626/solans_ecmlpkdd_poiso.pdf?sequence=1&isAllowed=y), ECML'20
+1. [Noise-tolerant Fair Classification](), NeurIPS'19
 1. [Stable and Fair Classification](http://proceedings.mlr.press/v97/huang19e/huang19e.pdf), ICML'19
 
 ## Transfer & Federated Learning
 
+1. [Addressing Algorithmic Disparity and Performance Inconsistency in Federated Learning](https://proceedings.neurips.cc/paper/2021/file/db8e1af0cb3aca1ae2d0018624204529-Paper.pdf), NeurIPS'21
+1. [Gradient-Driven Rewards to Guarantee Fairness in Collaborative Machine Learning](https://papers.nips.cc/paper/2021/file/8682cc30db9c025ecd3fee433f8ab54c-Paper.pdf), NeurIPS'21
+1. [FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout](https://papers.nips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf), NeurIPS'21
 1. [Does enforcing fairness mitigate biases caused by subpopulation shift?](https://papers.nips.cc/paper/2021/file/d800149d2f947ad4d64f34668f8b20f6-Paper.pdf), NeurlPS'21
 1. [Ditto: Fair and Robust Federated Learning Through Personalization](http://proceedings.mlr.press/v139/li21h/li21h.pdf), ICML'21
 1. [Fair Transfer Learning with Missing Protected Attributes](https://dl.acm.org/doi/pdf/10.1145/3306618.3314236), AIES'19
