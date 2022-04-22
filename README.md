@@ -115,6 +115,10 @@
 1. [Fairness-Aware Explainable Recommendation over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3397271.3401051), SIGIR'20
 1. [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf), ICML'19
 
+# Bandits
+
+1. [Fair Algorithms for Multi-Agent Multi-Armed Bandits](https://papers.nips.cc/paper/2021/file/c96ebeee051996333b6d70b2da6191b0-Paper.pdf), NeurIPS'21
+
 ## Fair Clustering
 
 1. [Fair Clustering Under a Bounded Cost](https://papers.nips.cc/paper/2021/file/781877bda0783aac5f1cf765c128b437-Paper.pdf), NeurIPS'21
@@ -151,7 +155,7 @@
 
 ## Fairness and Robustness
 
-1. [Fair Classification with Adversarial Perturbations](), NeurIPS'21
+1. [Fair Classification with Adversarial Perturbations](https://papers.nips.cc/paper/2021/file/44e207aecc63505eb828d442de03f2e9-Paper.pdf), NeurIPS'21
 1. [Sample Selection for Fair and Robust Training](https://papers.nips.cc/paper/2021/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf), NeurIPS'21
 1. [Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees](http://proceedings.mlr.press/v139/celis21a/celis21a.pdf), ICML'21
 1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](http://proceedings.mlr.press/v139/xu21b/xu21b.pdf), ICML'21
