@@ -115,7 +115,7 @@
 1. [Fairness-Aware Explainable Recommendation over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3397271.3401051), SIGIR'20
 1. [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf), ICML'19
 
-# Bandits
+## Bandits
 
 1. [Fair Algorithms for Multi-Agent Multi-Armed Bandits](https://papers.nips.cc/paper/2021/file/c96ebeee051996333b6d70b2da6191b0-Paper.pdf), NeurIPS'21
 
@@ -173,6 +173,10 @@
 1. [Does enforcing fairness mitigate biases caused by subpopulation shift?](https://papers.nips.cc/paper/2021/file/d800149d2f947ad4d64f34668f8b20f6-Paper.pdf), NeurlPS'21
 1. [Ditto: Fair and Robust Federated Learning Through Personalization](http://proceedings.mlr.press/v139/li21h/li21h.pdf), ICML'21
 1. [Fair Transfer Learning with Missing Protected Attributes](https://dl.acm.org/doi/pdf/10.1145/3306618.3314236), AIES'19
+
+## Trustworthiness
+
+1. [You Shouldn’t Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods](http://ceur-ws.org/Vol-2560/paper8.pdf), AAAI'20
 
 ## Empirical Study
 
