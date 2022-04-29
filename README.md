@@ -29,6 +29,7 @@
 1. [Apple Card Investigated After Gender Discrimination Complaints](https://www.nytimes.com/2019/11/10/business/Apple-credit-card-investigation.html)
 1. [When a Computer Program Keeps You in Jail](https://www.nytimes.com/2017/06/13/opinion/how-computers-are-harming-criminal-justice.html)
 1. [European Union regulations on algorithmic decision-making and a “right to explanation”](https://arxiv.org/pdf/1606.08813.pdf)
+1. [An Algorithm That Grants Freedom, or Takes It Away](https://www.nytimes.com/2020/02/06/technology/predictive-algorithms-crime.html)
 
 ## Group Fairness in Classification
 
