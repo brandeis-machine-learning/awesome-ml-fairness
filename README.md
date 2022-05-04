@@ -112,6 +112,7 @@
 
 1. [Correcting Exposure Bias for Link Recommendation](http://proceedings.mlr.press/v139/gupta21c/gupta21c.pdf), ICML'21
 1. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), ICLR'21
+1. [Individual Fairness for Graph Neural Networks: A Ranking based Approach](https://dl.acm.org/doi/pdf/10.1145/3447548.3467266), KDD'21
 1. [InFoRM: Individual Fairness on Graph Mining](https://dl.acm.org/doi/pdf/10.1145/3394486.3403080), KDD'20
 1. [Fairness-Aware Explainable Recommendation over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3397271.3401051), SIGIR'20
 1. [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf), ICML'19
