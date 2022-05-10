@@ -193,6 +193,8 @@
 
 1. [AI Fairness 360](https://aif360.mybluemix.net/), IBM
 1. [Fairlearn: A toolkit for assessing and improving fairness in AI](https://www.microsoft.com/en-us/research/publication/fairlearn-a-toolkit-for-assessing-and-improving-fairness-in-ai/), Microsoft
+1. [FairPy: An open-source library of fair division algorithms in Python](https://github.com/erelsgl/fairpy), Ariel University
+1. [FairML: Auditing Black-Box Predictive Models](https://github.com/adebayoj/fairml)
 1. [Folktables](https://github.com/zykls/folktables#3) 
 
 ## Dataset
