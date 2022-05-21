@@ -35,6 +35,7 @@
 
 ### Pre-processing
 
+1. [Achieving Fairness at No Utility Cost via Data Reweighing](https://arxiv.org/pdf/2202.00787.pdf), ICML'22
 1. [Bias in Machine Learning Software: Why? How? What to Do?](https://arxiv.org/pdf/2105.12195.pdf), FSE'21
 1. [Identifying and Correcting Label Bias in Machine Learning](http://proceedings.mlr.press/v108/jiang20a/jiang20a.pdf), AISTATS‘20
 1. [Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes](https://dl.acm.org/doi/pdf/10.1145/3340531.3411980), CIKM'20
