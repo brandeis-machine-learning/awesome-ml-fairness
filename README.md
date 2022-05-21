@@ -111,6 +111,7 @@
 
 ## Fair Graph Mining
 
+1. [RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network](https://arxiv.org/abs/2202.13547), WWW'22
 1. [Correcting Exposure Bias for Link Recommendation](http://proceedings.mlr.press/v139/gupta21c/gupta21c.pdf), ICML'21
 1. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), ICLR'21
 1. [Individual Fairness for Graph Neural Networks: A Ranking based Approach](https://dl.acm.org/doi/pdf/10.1145/3447548.3467266), KDD'21
