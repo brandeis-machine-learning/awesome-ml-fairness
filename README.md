@@ -73,6 +73,7 @@
 1. [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://drops.dagstuhl.de/opus/volltexte/2017/8156/pdf/LIPIcs-ITCS-2017-43.pdf), ITCS'17
 1. [On Fairness and Calibration](https://papers.nips.cc/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf), NeurIPS'17
 1. [Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.andrew.cmu.edu/user/achoulde/files/disparate_impact.pdf), Big Data'17
+1. [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236.pdf?ref=https://githubhelp.com), arXiv'16
 
 ### Others
 
@@ -131,6 +132,7 @@
 1. [Variational Fair Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17336/17143), AAAI'21
 1. [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html), CVPR'20
 1. [Fair Algorithms for Clustering](https://papers.nips.cc/paper/2019/file/fc192b0c0d270dbf41870a63a8c76c2f-Paper.pdf), NeurIPS'19
+1. [Coresets for Clustering with Fairness Constraints](https://proceedings.neurips.cc/paper/2019/file/810dfbbebb17302018ae903e9cb7a483-Paper.pdf), NeurIPS'19
 1. [Scalable Fair Clustering](http://proceedings.mlr.press/v97/backurs19a/backurs19a.pdf), ICML'19
 1. [Fair k-Center Clustering for Data Summarization](http://proceedings.mlr.press/v97/kleindessner19a/kleindessner19a.pdf), ICML'19
 1. [Guarantees for Spectral Clustering with Fairness Constraints](http://proceedings.mlr.press/v97/kleindessner19b/kleindessner19b.pdf), ICML'19
