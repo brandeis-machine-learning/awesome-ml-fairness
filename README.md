@@ -2,6 +2,7 @@
 
 > We collect a range of online resources on machine learning fairness.  
 > Not completed yet, work in process...  
+> If I miss your paper, please let me know!  
 > Contact: *peizhaoli@brandeis.edu*
 
 
@@ -68,10 +69,10 @@
 
 ### Tradeoff
 
+1. [Is There a Trade-Off Between Fairness and Accuracy? A Perspective Using Mismatched Hypothesis Testing](http://proceedings.mlr.press/v119/dutta20a/dutta20a.pdf), ICML'20
 1. [Inherent Tradeoffs in Learning Fair Representations](https://papers.nips.cc/paper/2019/hash/b4189d9de0fb2b9cce090bd1a15e3420-Abstract.html), NeurIPS'19
 1. [The Cost of Fairness in Binary Classification](http://proceedings.mlr.press/v81/menon18a/menon18a.pdf), FAT'18
 1. [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://drops.dagstuhl.de/opus/volltexte/2017/8156/pdf/LIPIcs-ITCS-2017-43.pdf), ITCS'17
-1. [On Fairness and Calibration](https://papers.nips.cc/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf), NeurIPS'17
 1. [Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.andrew.cmu.edu/user/achoulde/files/disparate_impact.pdf), Big Data'17
 1. [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236.pdf?ref=https://githubhelp.com), arXiv'16
 
@@ -85,6 +86,7 @@
 1. [Feature Noise Induces Loss Discrepancy Across Groups](http://proceedings.mlr.press/v119/khani20a/khani20a.pdf), ICML'20
 1. [Why Is My Classifier Discriminatory?](https://papers.nips.cc/paper/2018/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf), NeurIPS'18
 1. [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf), FAT'18
+   1. [On Fairness and Calibration](https://papers.nips.cc/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf), NeurIPS'17
 1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](https://dl.acm.org/doi/pdf/10.1145/3038912.3052660), WWW'17
 
 ## Individual Fairness
