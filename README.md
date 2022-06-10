@@ -86,7 +86,7 @@
 1. [Feature Noise Induces Loss Discrepancy Across Groups](http://proceedings.mlr.press/v119/khani20a/khani20a.pdf), ICML'20
 1. [Why Is My Classifier Discriminatory?](https://papers.nips.cc/paper/2018/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf), NeurIPS'18
 1. [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf), FAT'18
-   1. [On Fairness and Calibration](https://papers.nips.cc/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf), NeurIPS'17
+1. [On Fairness and Calibration](https://papers.nips.cc/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf), NeurIPS'17
 1. [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](https://dl.acm.org/doi/pdf/10.1145/3038912.3052660), WWW'17
 
 ## Individual Fairness
