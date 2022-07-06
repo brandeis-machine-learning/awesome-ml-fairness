@@ -64,6 +64,7 @@
 
 ### Post-processing
 
+1. [Fairness-aware Model-agnostic Positive and Unlabeled Learning](https://facctconference.org/static/pdfs_2022/facct22-136.pdf), FAccT'22
 1. [FACT: A Diagnostic for Group Fairness Trade-offs](http://proceedings.mlr.press/v119/kim20a/kim20a.pdf), ICML'20
 1. [Equality of Opportunity in Supervised Learning](https://proceedings.neurips.cc/paper/2016/file/9d2682367c3935defcb1f9e247a97c0d-Paper.pdf), NeurIPS'16
 
@@ -102,7 +103,9 @@
 ## Rawlsian Max Min Fairness
 
 1. [Adaptive Sampling for Minimax Fair Classification](https://papers.nips.cc/paper/2021/file/cd7c230fc5deb01ff5f7b1be1acef9cf-Paper.pdf), NeurIPS'21
+1. [Blind Pareto Fairness and Subgroup Robustness](http://proceedings.mlr.press/v139/martinez21a/martinez21a.pdf), ICML'21
 1. [Fairness without Demographics through Adversarially Reweighted Learning](https://papers.nips.cc/paper/2020/file/07fc15c9d169ee48573edd749d25945d-Paper.pdf), NeurIPS'20
+1. [Minimax Pareto Fairness: A Multi Objective Perspective](http://proceedings.mlr.press/v119/martinez20a/martinez20a.pdf), ICML'20
 1. [Fairness Without Demographics in Repeated Loss Minimization](http://proceedings.mlr.press/v80/hashimoto18a.html), ICML'18
 
 ## Counterfactual Fairness
@@ -185,6 +188,13 @@
 ## Trustworthiness
 
 1. [You Shouldn’t Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods](http://ceur-ws.org/Vol-2560/paper8.pdf), AAAI'20
+
+## Computer Vision
+
+1. [Leveling Down in Computer Vision: Pareto Inefficiencies in Fair Deep Classifiers](https://openaccess.thecvf.com/content/CVPR2022/papers/Zietlow_Leveling_Down_in_Computer_Vision_Pareto_Inefficiencies_in_Fair_Deep_CVPR_2022_paper.pdf), CVPR'22
+1. [Fair Contrastive Learning for Facial Attribute Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Fair_Contrastive_Learning_for_Facial_Attribute_Classification_CVPR_2022_paper.pdf), CVPR'22
+1. [Learning Fair Classifiers with Partially Annotated Group Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Jung_Learning_Fair_Classifiers_With_Partially_Annotated_Group_Labels_CVPR_2022_paper.pdf), CVPR'22
+1. [Fairness-aware Adversarial Perturbation Towards Bias Mitigation for Deployed Deep Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Fairness-Aware_Adversarial_Perturbation_Towards_Bias_Mitigation_for_Deployed_Deep_Models_CVPR_2022_paper.pdf), CVPR'22
 
 ## Empirical Study
 
