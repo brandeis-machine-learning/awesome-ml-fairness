@@ -8,6 +8,7 @@
 
 ## Survey
 
+1. [A survey on datasets for fairness-aware machine learning](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1452), WIREs Data Mining and Knowledge Discovery'22
 1. [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3457607), ACM Computing Surveys'21
 1. [An Overview of Fairness in Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9541160), IEEE Access'21
 1. [Trustworthy AI: A Computational Perspective](https://arxiv.org/pdf/2107.06641.pdf), arXiv'21
@@ -51,6 +52,8 @@
 
 1. [Fairness via Representation Neutralization](https://papers.nips.cc/paper/2021/file/64ff7983a47d331b13a81156e2f4d29d-Paper.pdf), NeurIPS'21
 1. [Scalable and Stable Surrogates for Flexible Classifiers with Fairness Constraints](https://papers.nips.cc/paper/2021/file/fc2e6a440b94f64831840137698021e1-Paper.pdf), NeurIPS'21
+1. [A Fair Classifier Using Kernel Density Estimation](https://papers.nips.cc/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf), NeurIPS'20
+1. [Exploiting MMD and Sinkhorn Divergences for Fair and Transferable Representation Learning](https://papers.nips.cc/paper/2020/file/af9c0e0c1dee63e5acad8b7ed1a5be96-Paper.pdf), NeurIPS'20
 1. [Conditional Learning of Fair Representations](https://openreview.net/pdf?id=Hkekl0NFPr), ICLR'20
 1. [A General Approach to Fairness with Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/5771/5627), AAAI'20
 1. [Fairness Constraints: A Flexible Approach for Fair Classification](https://www.jmlr.org/papers/volume20/18-262/18-262.pdf), JMLR'19
@@ -100,7 +103,7 @@
 1. [Training Individually Fair ML Models with Sensitive Subspace Robustness](https://openreview.net/pdf?id=B1gdkxHFDH), ICLR'20
 1. [Average Individual Fairness: Algorithms, Generalization and Experiments](https://proceedings.neurips.cc/paper/2019/hash/0e1feae55e360ff05fef58199b3fa521-Abstract.html), NeurIPS'19
 
-## Rawlsian Max Min Fairness
+## Minimax Fairness
 
 1. [Adaptive Sampling for Minimax Fair Classification](https://papers.nips.cc/paper/2021/file/cd7c230fc5deb01ff5f7b1be1acef9cf-Paper.pdf), NeurIPS'21
 1. [Blind Pareto Fairness and Subgroup Robustness](http://proceedings.mlr.press/v139/martinez21a/martinez21a.pdf), ICML'21
@@ -115,27 +118,35 @@
 1. [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf), NeurIPS'17
 1. [Avoiding Discrimination through Causal Reasoning](https://papers.nips.cc/paper/2017/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf), NeurIPS'17
 
-## Fair Graph Mining
+## Graph Mining
 
 1. [RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network](https://arxiv.org/abs/2202.13547), WWW'22
 1. [Correcting Exposure Bias for Link Recommendation](http://proceedings.mlr.press/v139/gupta21c/gupta21c.pdf), ICML'21
 1. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), ICLR'21
 1. [Individual Fairness for Graph Neural Networks: A Ranking based Approach](https://dl.acm.org/doi/pdf/10.1145/3447548.3467266), KDD'21
+1. [Fairness constraints can help exact inference in structured prediction](https://papers.nips.cc/paper/2020/file/8248a99e81e752cb9b41da3fc43fbe7f-Paper.pdf), NeurIPS'20
 1. [InFoRM: Individual Fairness on Graph Mining](https://dl.acm.org/doi/pdf/10.1145/3394486.3403080), KDD'20
 1. [Fairness-Aware Explainable Recommendation over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3397271.3401051), SIGIR'20
 1. [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf), ICML'19
 
-## Bandits
+## Online Learning & Bandits
 
+1. [Fair Sequential Selection Using Supervised Learning Models](https://papers.nips.cc/paper/2021/file/ed277964a8959e72a0d987e598dfbe72-Paper.pdf), NeurIPS'21
+1. [Online Market Equilibrium with Application to Fair Division](https://papers.nips.cc/paper/2021/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf), NeurIPS'21
+1. [A Unified Approach to Fair Online Learning via Blackwell Approachability](https://papers.nips.cc/paper/2021/file/97ea3cfb64eeaa1edba65501d0bb3c86-Paper.pdf), NeurIPS'21
 1. [Fair Algorithms for Multi-Agent Multi-Armed Bandits](https://papers.nips.cc/paper/2021/file/c96ebeee051996333b6d70b2da6191b0-Paper.pdf), NeurIPS'21
+1. [Fair Exploration via Axiomatic Bargaining](https://papers.nips.cc/paper/2021/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf), NeurIPS'21
+1. [Group-Fair Online Allocation in Continuous Time](https://papers.nips.cc/paper/2020/file/9ec0cfdc84044494e10582436e013e64-Paper.pdf), NeurIPS'20
 
-## Fair Clustering
+## Clustering
 
 1. [Fair Clustering Under a Bounded Cost](https://papers.nips.cc/paper/2021/file/781877bda0783aac5f1cf765c128b437-Paper.pdf), NeurIPS'21
 1. [Better Algorithms for Individually Fair k-Clustering](https://papers.nips.cc/paper/2021/file/6f221fcb5c504fe96789df252123770b-Paper.pdf), NeurIPS'21
 1. [Approximate Group Fairness for Clustering](http://proceedings.mlr.press/v139/li21j/li21j.pdf), ICML'21
 1. [Variational Fair Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17336/17143), AAAI'21
+1. [Socially Fair k-Means Clustering](https://dl.acm.org/doi/pdf/10.1145/3442188.3445906), FAccT'21
 1. [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html), CVPR'20
+1. [Fair Hierarchical Clustering](https://papers.nips.cc/paper/2020/file/f10f2da9a238b746d2bac55759915f0d-Paper.pdf), NeurIPS'20
 1. [Fair Algorithms for Clustering](https://papers.nips.cc/paper/2019/file/fc192b0c0d270dbf41870a63a8c76c2f-Paper.pdf), NeurIPS'19
 1. [Coresets for Clustering with Fairness Constraints](https://proceedings.neurips.cc/paper/2019/file/810dfbbebb17302018ae903e9cb7a483-Paper.pdf), NeurIPS'19
 1. [Scalable Fair Clustering](http://proceedings.mlr.press/v97/backurs19a/backurs19a.pdf), ICML'19
@@ -143,22 +154,28 @@
 1. [Guarantees for Spectral Clustering with Fairness Constraints](http://proceedings.mlr.press/v97/kleindessner19b/kleindessner19b.pdf), ICML'19
 1. [Fair Clustering Through Fairlets](https://papers.nips.cc/paper/2017/file/978fce5bcc4eccc88ad48ce3914124a2-Paper.pdf), NeurIPS'17
 
-## Fair Outlier Detection
+## Regression
+
+1. [Fair Sparse Regression with Clustering: An Invex Relaxation for a Combinatorial Problem](https://papers.nips.cc/paper/2021/file/c39b9a47811f1eaf3244a63ae8c22734-Paper.pdf), NeurIPS'21
+1. [Fair Regression with Wasserstein Barycenters](https://papers.nips.cc/paper/2020/file/51cdbd2611e844ece5d80878eb770436-Paper.pdf), NeurIPS'20
+1. [Fair Regression via Plug-In Estimator and Recalibration](https://papers.nips.cc/paper/2020/file/ddd808772c035aed516d42ad3559be5f-Paper.pdf), NeurIPS'20
+
+## Outlier Detection
 
 1. [Deep Clustering based Fair Outlier Detection](https://arxiv.org/pdf/2106.05127.pdf), KDD'21
 1. [FairOD: Fairness-aware Outlier Detection](https://dl.acm.org/doi/pdf/10.1145/3461702.3462517), AIES'21
 1. [FairLOF: Fairness in Outlier Detection](https://www.researchgate.net/publication/354203620_FairLOF_Fairness_in_Outlier_Detection/fulltext/612bc29f0360302a0066ef8f/FairLOF-Fairness-in-Outlier-Detection.pdf), Data Science and Engineering'21
 
-## Fair Ranking
+## Ranking
 
 1. [Two-sided fairness in rankings via Lorenz dominance](https://papers.nips.cc/paper/2021/file/48259990138bc03361556fb3f94c5d45-Paper.pdf), NeurIPS'21
-1. [Fair algorithms for selecting citizens’ assemblies](https://www.nature.com/articles/s41586-021-03788-6.pdf), Nature'21
 1. [Fairness in Ranking under Uncertainty](https://papers.nips.cc/paper/2021/file/63c3ddcc7b23daa1e42dc41f9a44a873-Paper.pdf), NeurIPS'21
+1. [Fair algorithms for selecting citizens’ assemblies](https://www.nature.com/articles/s41586-021-03788-6.pdf), Nature'21
 1. [On the Problem of Underranking in Group-Fair Ranking](http://proceedings.mlr.press/v139/gorantla21a/gorantla21a.pdf), ICML'21
 1. [Fairness and Bias in Online Selection](http://proceedings.mlr.press/v139/correa21a/correa21a.pdf), ICML'21
 1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric](https://papers.nips.cc/paper/2019/file/73e0f7487b8e5297182c5a711d20bf26-Paper.pdf), NeurIPS'19
 
-## Fair Generation
+## Generation
 
 1. [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://papers.nips.cc/paper/2021/file/ba9fab001f67381e56e410575874d967-Paper.pdf), NeurIPS'21
 1. [Fairness for Image Generation with Uncertain Sensitive Attributes](http://proceedings.mlr.press/v139/jalal21b/jalal21b.pdf), ICML'21
@@ -171,6 +188,7 @@
 1. [Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees](http://proceedings.mlr.press/v139/celis21a/celis21a.pdf), ICML'21
 1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](http://proceedings.mlr.press/v139/xu21b/xu21b.pdf), ICML'21
 1. [Exacerbating Algorithmic Bias through Fairness Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/17080/16887), AAAI'21
+1. [Robust Optimization for Fairness with Noisy Protected Groups](https://papers.nips.cc/paper/2020/file/37d097caf1299d9aa79c2c2b843d2d78-Paper.pdf), NeurIPS'20
 1. [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](http://proceedings.mlr.press/v119/roh20a/roh20a.pdf), ICML'20
 1. [Poisoning Attacks on Algorithmic Fairness](https://repositori.upf.edu/bitstream/handle/10230/47626/solans_ecmlpkdd_poiso.pdf?sequence=1&isAllowed=y), ECML'20
 1. [Noise-tolerant Fair Classification](), NeurIPS'19
@@ -187,6 +205,10 @@
 
 ## Trustworthiness
 
+1. [Differentially Private Empirical Risk Minimization under the Fairness Lens](https://papers.nips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf), NeurIPS'21
+1. [Characterizing the risk of fairwashing](https://papers.nips.cc/paper/2021/file/7caf5e22ea3eb8175ab518429c8589a4-Paper.pdf), NeurIPS'21
+1. [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/file/7ec2442aa04c157590b2fa1a7d093a33-Paper.pdf), NeurIPS'20
+1. [Can I Trust My Fairness Metric? Assessing Fairness with Unlabeled Data and Bayesian Inference](https://papers.nips.cc/paper/2020/file/d83de59e10227072a9c034ce10029c39-Paper.pdf), NeurIPS'20
 1. [You Shouldn’t Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods](http://ceur-ws.org/Vol-2560/paper8.pdf), AAAI'20
 
 ## Computer Vision
