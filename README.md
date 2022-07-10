@@ -203,6 +203,11 @@
 1. [Ditto: Fair and Robust Federated Learning Through Personalization](http://proceedings.mlr.press/v139/li21h/li21h.pdf), ICML'21
 1. [Fair Transfer Learning with Missing Protected Attributes](https://dl.acm.org/doi/pdf/10.1145/3306618.3314236), AIES'19
 
+## Long-term Impact
+
+1. [How Do Fair Decisions Fare in Long-term Qualification?](https://papers.nips.cc/paper/2020/file/d6d231705f96d5a35aeb3a76402e49a3-Paper.pdf), NeurIPS'20
+1. [Delayed Impact of Fair Machine Learning](https://proceedings.mlr.press/v80/liu18c/liu18c.pdf), ICML'18
+
 ## Trustworthiness
 
 1. [Differentially Private Empirical Risk Minimization under the Fairness Lens](https://papers.nips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf), NeurIPS'21
