@@ -156,6 +156,7 @@
 
 ## Regression
 
+1. [Pairwise Fairness for Ordinal Regression](https://proceedings.mlr.press/v151/kleindessner22a/kleindessner22a.pdf), NeurIPS'22
 1. [Fair Sparse Regression with Clustering: An Invex Relaxation for a Combinatorial Problem](https://papers.nips.cc/paper/2021/file/c39b9a47811f1eaf3244a63ae8c22734-Paper.pdf), NeurIPS'21
 1. [Fair Regression with Wasserstein Barycenters](https://papers.nips.cc/paper/2020/file/51cdbd2611e844ece5d80878eb770436-Paper.pdf), NeurIPS'20
 1. [Fair Regression via Plug-In Estimator and Recalibration](https://papers.nips.cc/paper/2020/file/ddd808772c035aed516d42ad3559be5f-Paper.pdf), NeurIPS'20
