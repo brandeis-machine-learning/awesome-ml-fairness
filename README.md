@@ -211,6 +211,7 @@
 
 ## Trustworthiness
 
+1. [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf), ICML'22
 1. [Differentially Private Empirical Risk Minimization under the Fairness Lens](https://papers.nips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf), NeurIPS'21
 1. [Characterizing the risk of fairwashing](https://papers.nips.cc/paper/2021/file/7caf5e22ea3eb8175ab518429c8589a4-Paper.pdf), NeurIPS'21
 1. [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/file/7ec2442aa04c157590b2fa1a7d093a33-Paper.pdf), NeurIPS'20
