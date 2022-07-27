@@ -20,6 +20,7 @@
 
 ## Book, Blog, Case Study, and Introduction
 
+1. [NSF grant decisions reflect systemic racism, study argues](https://www.science.org/content/article/nsf-grant-decisions-reflect-systemic-racism-study-argues)
 1. [Fairness and Machine Learning: LImitations and Opportunities](https://fairmlbook.org/pdf/fairmlbook.pdf)
 1. [Apple Card algorithm sparks gender bias allegations against Goldman Sachs](https://www.washingtonpost.com/business/2019/11/11/apple-card-algorithm-sparks-gender-bias-allegations-against-goldman-sachs/)
 1. [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://dl.acm.org/doi/pdf/10.1145/3290605.3300830), CHI'19
