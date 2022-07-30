@@ -260,6 +260,8 @@
 1. [default of credit card clients Data Set](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
 1. [Adult Reconstruction dataset](https://github.com/zykls/folktables#3)
 1. [America Community Survey Public Use Microdata Sample](https://www2.census.gov/programs-surveys/acs/data/pums/)
+1. [Census-Income (KDD) Data Set](https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD))
+1. [The Dutch Virtual Census of 2001 - IPUMS Subset](https://international.ipums.org/international/)
 
 ### Graph Data
 
