@@ -262,6 +262,7 @@
 1. [America Community Survey Public Use Microdata Sample](https://www2.census.gov/programs-surveys/acs/data/pums/)
 1. [Census-Income (KDD) Data Set](https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD))
 1. [The Dutch Virtual Census of 2001 - IPUMS Subset](https://international.ipums.org/international/)
+1. [Diabetes 130-US hospitals for years 1999-2008 Data Set](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
 
 ### Graph Data
 
