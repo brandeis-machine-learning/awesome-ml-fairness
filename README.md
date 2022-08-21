@@ -19,6 +19,7 @@
 
 ## Book, Blog, Case Study, and Introduction
 
+1. [To regulate AI, try playing in a sandbox](https://www.emergingtechbrew.com/stories/2021/05/26/regulate-ai-just-play-sandbox), Emerging Tech Brew
 1. [NSF grant decisions reflect systemic racism, study argues](https://www.science.org/content/article/nsf-grant-decisions-reflect-systemic-racism-study-argues)
 1. [Fairness and Machine Learning: LImitations and Opportunities](https://fairmlbook.org/pdf/fairmlbook.pdf)
 1. [Apple Card algorithm sparks gender bias allegations against Goldman Sachs](https://www.washingtonpost.com/business/2019/11/11/apple-card-algorithm-sparks-gender-bias-allegations-against-goldman-sachs/)
@@ -211,12 +212,16 @@
 
 ## Trustworthiness
 
-1. [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf), ICML'22
 1. [Differentially Private Empirical Risk Minimization under the Fairness Lens](https://papers.nips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf), NeurIPS'21
 1. [Characterizing the risk of fairwashing](https://papers.nips.cc/paper/2021/file/7caf5e22ea3eb8175ab518429c8589a4-Paper.pdf), NeurIPS'21
 1. [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/file/7ec2442aa04c157590b2fa1a7d093a33-Paper.pdf), NeurIPS'20
 1. [Can I Trust My Fairness Metric? Assessing Fairness with Unlabeled Data and Bayesian Inference](https://papers.nips.cc/paper/2020/file/d83de59e10227072a9c034ce10029c39-Paper.pdf), NeurIPS'20
 1. [You Shouldn’t Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods](http://ceur-ws.org/Vol-2560/paper8.pdf), AAAI'20
+
+## Auditing
+
+1. [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf), ICML'22
+
 
 ## Computer Vision
 
