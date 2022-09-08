@@ -98,11 +98,20 @@
 
 1. [Post-processing for Individual Fairness](https://papers.nips.cc/paper/2021/file/d9fea4ca7e4a74c318ec27c1deb0796c-Paper.pdf), NeurIPS'21
 1. [SenSeI: Sensitive Set Invariance for Enforcing Individual Fairness](https://openreview.net/pdf?id=DktZb97_Fx), ICLR'21
+1. [Individually Fair Gradient Boosting](https://openreview.net/forum?id=JBAa9we1AL), ICLR'21
+1. [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint](http://proceedings.mlr.press/v130/chikahara21a/chikahara21a.pdf), AISTATS'21
+1. [What’s Fair about Individual Fairness?](https://dl.acm.org/doi/pdf/10.1145/3461702.3462621), AIES'21
 1. [Learning Certified Individually Fair Representations](https://papers.nips.cc/paper/2020/hash/55d491cf951b1b920900684d71419282-Abstract.html), NeurIPS'20
-1. [Metric-Free Individual Fairness in Online Learning](), NeurIPS'20
+1. [Metric-Free Individual Fairness in Online Learning](https://proceedings.neurips.cc//paper/2020/file/80b618ebcac7aa97a6dac2ba65cb7e36-Paper.pdf), NeurIPS'20
 1. [Two Simple Ways to Learn Individual Fairness Metrics from Data](http://proceedings.mlr.press/v119/mukherjee20a), ICML'20
 1. [Training Individually Fair ML Models with Sensitive Subspace Robustness](https://openreview.net/pdf?id=B1gdkxHFDH), ICLR'20
+1. [Verifying Individual Fairness in Machine Learning Models](https://auai.org/uai2020/proceedings/327_main_paper.pdf), UAI'20
+1. [Individual Fairness Revisited: Transferring Techniques from Adversarial Robustness](https://www.ijcai.org/proceedings/2020/0061.pdf), IJCAI'20
+1. [Metric Learning for Individual Fairness](https://drops.dagstuhl.de/opus/volltexte/2020/12018/pdf/LIPIcs-FORC-2020-2.pdf), FORC'20
+1. [Individual Fairness in Pipelines](https://par.nsf.gov/servlets/purl/10217368), FORC'20
 1. [Average Individual Fairness: Algorithms, Generalization and Experiments](https://proceedings.neurips.cc/paper/2019/hash/0e1feae55e360ff05fef58199b3fa521-Abstract.html), NeurIPS'19
+1. [iFair: Learning Individually Fair Data Representations for Algorithmic Decision Making](https://ieeexplore.ieee.org/document/8731591), ICDM'19
+1. [Operationalizing Individual Fairness with Pairwise Fair Representations](https://dl.acm.org/doi/pdf/10.14778/3372716.3372723), VLDB'19
 
 ## Minimax Fairness
 
@@ -115,9 +124,11 @@
 ## Counterfactual Fairness
 
 1. [PC-Fairness: A Unified Framework for Measuring Causality-based Fairness](https://papers.nips.cc/paper/2019/file/44a2e0804995faf8d2e3b084a1e2db1d-Paper.pdf), NeurIPS'19
+1. [Fairness through Causal Awareness: Learning Causal Latent-Variable Models for Biased Data](https://dl.acm.org/doi/pdf/10.1145/3287560.3287564), FAccT'19
 1. [Counterfactual Fairness](https://papers.nips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf), NeurIPS'17
 1. [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf), NeurIPS'17
 1. [Avoiding Discrimination through Causal Reasoning](https://papers.nips.cc/paper/2017/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf), NeurIPS'17
+1. [A Causal Framework for Discovering and Removing Direct and Indirect Discrimination](https://www.ijcai.org/proceedings/2017/0549.pdf), IJCAI'17
 
 ## Graph Mining
 
