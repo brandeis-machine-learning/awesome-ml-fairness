@@ -99,6 +99,7 @@
 1. [Post-processing for Individual Fairness](https://papers.nips.cc/paper/2021/file/d9fea4ca7e4a74c318ec27c1deb0796c-Paper.pdf), NeurIPS'21
 1. [SenSeI: Sensitive Set Invariance for Enforcing Individual Fairness](https://openreview.net/pdf?id=DktZb97_Fx), ICLR'21
 1. [Individually Fair Gradient Boosting](https://openreview.net/forum?id=JBAa9we1AL), ICLR'21
+1. [Statistical inference for individual fairness](https://openreview.net/forum?id=z9k8BWL-_2u), ICLR'21
 1. [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint](http://proceedings.mlr.press/v130/chikahara21a/chikahara21a.pdf), AISTATS'21
 1. [What’s Fair about Individual Fairness?](https://dl.acm.org/doi/pdf/10.1145/3461702.3462621), AIES'21
 1. [Learning Certified Individually Fair Representations](https://papers.nips.cc/paper/2020/hash/55d491cf951b1b920900684d71419282-Abstract.html), NeurIPS'20
