@@ -99,14 +99,12 @@
 1. [Post-processing for Individual Fairness](https://papers.nips.cc/paper/2021/file/d9fea4ca7e4a74c318ec27c1deb0796c-Paper.pdf), NeurIPS'21
 1. [SenSeI: Sensitive Set Invariance for Enforcing Individual Fairness](https://openreview.net/pdf?id=DktZb97_Fx), ICLR'21
 1. [Individually Fair Gradient Boosting](https://openreview.net/forum?id=JBAa9we1AL), ICLR'21
-1. [Statistical inference for individual fairness](https://openreview.net/forum?id=z9k8BWL-_2u), ICLR'21
 1. [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint](http://proceedings.mlr.press/v130/chikahara21a/chikahara21a.pdf), AISTATS'21
 1. [What’s Fair about Individual Fairness?](https://dl.acm.org/doi/pdf/10.1145/3461702.3462621), AIES'21
 1. [Learning Certified Individually Fair Representations](https://papers.nips.cc/paper/2020/hash/55d491cf951b1b920900684d71419282-Abstract.html), NeurIPS'20
 1. [Metric-Free Individual Fairness in Online Learning](https://proceedings.neurips.cc//paper/2020/file/80b618ebcac7aa97a6dac2ba65cb7e36-Paper.pdf), NeurIPS'20
 1. [Two Simple Ways to Learn Individual Fairness Metrics from Data](http://proceedings.mlr.press/v119/mukherjee20a), ICML'20
 1. [Training Individually Fair ML Models with Sensitive Subspace Robustness](https://openreview.net/pdf?id=B1gdkxHFDH), ICLR'20
-1. [Verifying Individual Fairness in Machine Learning Models](https://auai.org/uai2020/proceedings/327_main_paper.pdf), UAI'20
 1. [Individual Fairness Revisited: Transferring Techniques from Adversarial Robustness](https://www.ijcai.org/proceedings/2020/0061.pdf), IJCAI'20
 1. [Metric Learning for Individual Fairness](https://drops.dagstuhl.de/opus/volltexte/2020/12018/pdf/LIPIcs-FORC-2020-2.pdf), FORC'20
 1. [Individual Fairness in Pipelines](https://par.nsf.gov/servlets/purl/10217368), FORC'20
@@ -182,6 +180,7 @@
 
 ## Ranking
 
+1. [Individually Fair Rankings](https://openreview.net/pdf?id=71zCSP_HuBN), ICLR'21
 1. [Two-sided fairness in rankings via Lorenz dominance](https://papers.nips.cc/paper/2021/file/48259990138bc03361556fb3f94c5d45-Paper.pdf), NeurIPS'21
 1. [Fairness in Ranking under Uncertainty](https://papers.nips.cc/paper/2021/file/63c3ddcc7b23daa1e42dc41f9a44a873-Paper.pdf), NeurIPS'21
 1. [Fair algorithms for selecting citizens’ assemblies](https://www.nature.com/articles/s41586-021-03788-6.pdf), Nature'21
@@ -205,7 +204,7 @@
 1. [Robust Optimization for Fairness with Noisy Protected Groups](https://papers.nips.cc/paper/2020/file/37d097caf1299d9aa79c2c2b843d2d78-Paper.pdf), NeurIPS'20
 1. [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](http://proceedings.mlr.press/v119/roh20a/roh20a.pdf), ICML'20
 1. [Poisoning Attacks on Algorithmic Fairness](https://repositori.upf.edu/bitstream/handle/10230/47626/solans_ecmlpkdd_poiso.pdf?sequence=1&isAllowed=y), ECML'20
-1. [Noise-tolerant Fair Classification](), NeurIPS'19
+1. [Noise-tolerant Fair Classification](https://proceedings.neurips.cc/paper/2019/file/8d5e957f297893487bd98fa830fa6413-Paper.pdf), NeurIPS'19
 1. [Stable and Fair Classification](http://proceedings.mlr.press/v97/huang19e/huang19e.pdf), ICML'19
 
 ## Transfer & Federated Learning
@@ -233,7 +232,8 @@
 ## Auditing
 
 1. [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf), ICML'22
-
+1. [Statistical inference for individual fairness](https://openreview.net/forum?id=z9k8BWL-_2u), ICLR'21
+1. [Verifying Individual Fairness in Machine Learning Models](https://auai.org/uai2020/proceedings/327_main_paper.pdf), UAI'20
 
 ## Computer Vision
 
