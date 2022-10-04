@@ -39,6 +39,7 @@
 ### Pre-processing
 
 1. [Achieving Fairness at No Utility Cost via Data Reweighing](https://arxiv.org/pdf/2202.00787.pdf), ICML'22
+1. [Fairness with Adaptive Weights](https://proceedings.mlr.press/v162/chai22a/chai22a.pdf), ICML'22
 1. [Bias in Machine Learning Software: Why? How? What to Do?](https://arxiv.org/pdf/2105.12195.pdf), FSE'21
 1. [Identifying and Correcting Label Bias in Machine Learning](http://proceedings.mlr.press/v108/jiang20a/jiang20a.pdf), AISTATS‘20
 1. [Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes](https://dl.acm.org/doi/pdf/10.1145/3340531.3411980), CIKM'20
@@ -51,6 +52,9 @@
 
 ### In-processing
 
+1. [Fair Representation Learning through Implicit Path Alignment](https://proceedings.mlr.press/v162/shui22a/shui22a.pdf), ICML'22
+1. [Fair Generalized Linear Models with a Convex Penalty](https://proceedings.mlr.press/v162/do22a/do22a.pdf), ICML'22
+1. [Fair Normalizing Flows](https://openreview.net/pdf?id=BrFIKuxrZE), ICLR'22
 1. [Fairness via Representation Neutralization](https://papers.nips.cc/paper/2021/file/64ff7983a47d331b13a81156e2f4d29d-Paper.pdf), NeurIPS'21
 1. [Scalable and Stable Surrogates for Flexible Classifiers with Fairness Constraints](https://papers.nips.cc/paper/2021/file/fc2e6a440b94f64831840137698021e1-Paper.pdf), NeurIPS'21
 1. [A Fair Classifier Using Kernel Density Estimation](https://papers.nips.cc/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf), NeurIPS'20
@@ -68,6 +72,7 @@
 
 ### Post-processing
 
+1. [FairCal: Fairness Calibration for Face Verification](https://openreview.net/pdf?id=nRj0NcmSuxb), ICLR'22
 1. [Fairness-aware Model-agnostic Positive and Unlabeled Learning](https://facctconference.org/static/pdfs_2022/facct22-136.pdf), FAccT'22
 1. [FACT: A Diagnostic for Group Fairness Trade-offs](http://proceedings.mlr.press/v119/kim20a/kim20a.pdf), ICML'20
 1. [Equality of Opportunity in Supervised Learning](https://proceedings.neurips.cc/paper/2016/file/9d2682367c3935defcb1f9e247a97c0d-Paper.pdf), NeurIPS'16
@@ -83,6 +88,8 @@
 
 ### Others
 
+1. [Understanding Instance-Level Impact of Fairness Constraints](https://proceedings.mlr.press/v162/wang22ac/wang22ac.pdf), ICML'22 
+1. [Generalized Demographic Parity for Group Fairness](https://openreview.net/pdf?id=YigKlMJwjye), ICLR'22
 1. [Assessing Fairness in the Presence of Missing Data](https://papers.nips.cc/paper/2021/file/85dca1d270f7f9aef00c9d372f114482-Paper.pdf), NeurIPS'21
 1. [Characterizing Fairness Over the Set of Good Models Under Selective Labels](http://proceedings.mlr.press/v139/coston21a/coston21a.pdf), ICML'21
 1. [Fair Selective Classification via Sufficiency](http://proceedings.mlr.press/v139/lee21b/lee21b.pdf), ICML'21
@@ -96,6 +103,8 @@
 
 ## Individual Fairness
 
+1. [Metric-Fair Active Learning](https://proceedings.mlr.press/v162/shen22b/shen22b.pdf), ICML'22
+1. [Metric-Fair Classifier Derandomization](https://proceedings.mlr.press/v162/wu22a/wu22a.pdf), ICML'22
 1. [Post-processing for Individual Fairness](https://papers.nips.cc/paper/2021/file/d9fea4ca7e4a74c318ec27c1deb0796c-Paper.pdf), NeurIPS'21
 1. [SenSeI: Sensitive Set Invariance for Enforcing Individual Fairness](https://openreview.net/pdf?id=DktZb97_Fx), ICLR'21
 1. [Individually Fair Gradient Boosting](https://openreview.net/forum?id=JBAa9we1AL), ICLR'21
@@ -114,6 +123,7 @@
 
 ## Minimax Fairness
 
+1. [Active Sampling for Min-Max Fairness](https://proceedings.mlr.press/v162/abernethy22a/abernethy22a.pdf), ICML'22
 1. [Adaptive Sampling for Minimax Fair Classification](https://papers.nips.cc/paper/2021/file/cd7c230fc5deb01ff5f7b1be1acef9cf-Paper.pdf), NeurIPS'21
 1. [Blind Pareto Fairness and Subgroup Robustness](http://proceedings.mlr.press/v139/martinez21a/martinez21a.pdf), ICML'21
 1. [Fairness without Demographics through Adversarially Reweighted Learning](https://papers.nips.cc/paper/2020/file/07fc15c9d169ee48573edd749d25945d-Paper.pdf), NeurIPS'20
@@ -122,6 +132,8 @@
 
 ## Counterfactual Fairness
 
+1. [Causal Conceptions of Fairness and their Consequences](https://proceedings.mlr.press/v162/nilforoshan22a/nilforoshan22a.pdf), ICML'22
+1. [Contrastive Mixture of Posteriors for Counterfactual Inference, Data Integration and Fairness](https://proceedings.mlr.press/v162/foster22a/foster22a.pdf), ICML'22
 1. [PC-Fairness: A Unified Framework for Measuring Causality-based Fairness](https://papers.nips.cc/paper/2019/file/44a2e0804995faf8d2e3b084a1e2db1d-Paper.pdf), NeurIPS'19
 1. [Fairness through Causal Awareness: Learning Causal Latent-Variable Models for Biased Data](https://dl.acm.org/doi/pdf/10.1145/3287560.3287564), FAccT'19
 1. [Counterfactual Fairness](https://papers.nips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf), NeurIPS'17
@@ -151,6 +163,7 @@
 
 ## Clustering
 
+1. [Fair and Fast k-Center Clustering for Data Summarization](https://proceedings.mlr.press/v162/angelidakis22a/angelidakis22a.pdf), ICML'22
 1. [Fair Clustering Under a Bounded Cost](https://papers.nips.cc/paper/2021/file/781877bda0783aac5f1cf765c128b437-Paper.pdf), NeurIPS'21
 1. [Better Algorithms for Individually Fair k-Clustering](https://papers.nips.cc/paper/2021/file/6f221fcb5c504fe96789df252123770b-Paper.pdf), NeurIPS'21
 1. [Approximate Group Fairness for Clustering](http://proceedings.mlr.press/v139/li21j/li21j.pdf), ICML'21
@@ -167,6 +180,7 @@
 
 ## Regression
 
+1. [Selective Regression Under Fairness Criteria](https://proceedings.mlr.press/v162/shah22a/shah22a.pdf), ICML'22
 1. [Pairwise Fairness for Ordinal Regression](https://proceedings.mlr.press/v151/kleindessner22a/kleindessner22a.pdf), NeurIPS'22
 1. [Fair Sparse Regression with Clustering: An Invex Relaxation for a Combinatorial Problem](https://papers.nips.cc/paper/2021/file/c39b9a47811f1eaf3244a63ae8c22734-Paper.pdf), NeurIPS'21
 1. [Fair Regression with Wasserstein Barycenters](https://papers.nips.cc/paper/2020/file/51cdbd2611e844ece5d80878eb770436-Paper.pdf), NeurIPS'20
@@ -209,6 +223,7 @@
 
 ## Transfer & Federated Learning
 
+1. [Fairness Guarantees under Demographic Shift](https://openreview.net/pdf?id=wbPObLm6ueA), ICLR'22
 1. [Addressing Algorithmic Disparity and Performance Inconsistency in Federated Learning](https://proceedings.neurips.cc/paper/2021/file/db8e1af0cb3aca1ae2d0018624204529-Paper.pdf), NeurIPS'21
 1. [Gradient-Driven Rewards to Guarantee Fairness in Collaborative Machine Learning](https://papers.nips.cc/paper/2021/file/8682cc30db9c025ecd3fee433f8ab54c-Paper.pdf), NeurIPS'21
 1. [FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout](https://papers.nips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf), NeurIPS'21
