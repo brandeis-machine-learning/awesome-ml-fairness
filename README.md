@@ -239,6 +239,7 @@
 
 ## Trustworthiness
 
+1. [Robust Fair Clustering: A Novel Fairness Attack and Defense Framework](https://arxiv.org/pdf/2210.01953.pdf), arXiv'22
 1. [Differentially Private Empirical Risk Minimization under the Fairness Lens](https://papers.nips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf), NeurIPS'21
 1. [Characterizing the risk of fairwashing](https://papers.nips.cc/paper/2021/file/7caf5e22ea3eb8175ab518429c8589a4-Paper.pdf), NeurIPS'21
 1. [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/file/7ec2442aa04c157590b2fa1a7d093a33-Paper.pdf), NeurIPS'20
@@ -258,10 +259,7 @@
 1. [Learning Fair Classifiers with Partially Annotated Group Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Jung_Learning_Fair_Classifiers_With_Partially_Annotated_Group_Labels_CVPR_2022_paper.pdf), CVPR'22
 1. [Fairness-aware Adversarial Perturbation Towards Bias Mitigation for Deployed Deep Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Fairness-Aware_Adversarial_Perturbation_Towards_Bias_Mitigation_for_Deployed_Deep_Models_CVPR_2022_paper.pdf), CVPR'22
 
-## Natural Language Processing
-
-1. [It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations](https://aclanthology.org/2020.acl-main.263.pdf), NAACL'20
-1. [Gender Bias in Contextualized Word Embeddings](https://aclanthology.org/N19-1064.pdf), NAACL'19
+## [Natural Language Processing](nlp.md)
 
 ## Empirical Study
 
