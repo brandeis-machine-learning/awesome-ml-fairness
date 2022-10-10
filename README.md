@@ -13,6 +13,7 @@
 1. [Trustworthy AI: A Computational Perspective](https://arxiv.org/pdf/2107.06641.pdf), arXiv'21
 1. [Algorithm Fairness in AI for Medicine and Healthcare](https://arxiv.org/pdf/2110.00603.pdf), arXiv'21
 1. [Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/pdf/2101.02032.pdf), arXiv'21
+1. [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://aclanthology.org/2020.acl-main.485.pdf), ACL'20
 1. [Fairness in Machine Learning: A Survey](https://arxiv.org/abs/2010.04053), arXiv'20
 1. [The Frontiers of Fairness in Machine Learning](https://arxiv.org/abs/1810.08810), arXiv'18
 1. [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/pdf/1808.00023.pdf), arXiv'18
@@ -256,6 +257,11 @@
 1. [Fair Contrastive Learning for Facial Attribute Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Fair_Contrastive_Learning_for_Facial_Attribute_Classification_CVPR_2022_paper.pdf), CVPR'22
 1. [Learning Fair Classifiers with Partially Annotated Group Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Jung_Learning_Fair_Classifiers_With_Partially_Annotated_Group_Labels_CVPR_2022_paper.pdf), CVPR'22
 1. [Fairness-aware Adversarial Perturbation Towards Bias Mitigation for Deployed Deep Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Fairness-Aware_Adversarial_Perturbation_Towards_Bias_Mitigation_for_Deployed_Deep_Models_CVPR_2022_paper.pdf), CVPR'22
+
+## Natural Language Processing
+
+1. [It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations](https://aclanthology.org/2020.acl-main.263.pdf), NAACL'20
+1. [Gender Bias in Contextualized Word Embeddings](https://aclanthology.org/N19-1064.pdf), NAACL'19
 
 ## Empirical Study
 
