@@ -56,10 +56,12 @@
 1. [Fair Representation Learning through Implicit Path Alignment](https://proceedings.mlr.press/v162/shui22a/shui22a.pdf), ICML'22
 1. [Fair Generalized Linear Models with a Convex Penalty](https://proceedings.mlr.press/v162/do22a/do22a.pdf), ICML'22
 1. [Fair Normalizing Flows](https://openreview.net/pdf?id=BrFIKuxrZE), ICLR'22
+1. [A Stochastic Optimization Framework for Fair Risk Minimization](https://arxiv.org/pdf/2102.12586.pdf), arXiv'22
 1. [Fairness via Representation Neutralization](https://papers.nips.cc/paper/2021/file/64ff7983a47d331b13a81156e2f4d29d-Paper.pdf), NeurIPS'21
 1. [Scalable and Stable Surrogates for Flexible Classifiers with Fairness Constraints](https://papers.nips.cc/paper/2021/file/fc2e6a440b94f64831840137698021e1-Paper.pdf), NeurIPS'21
 1. [A Fair Classifier Using Kernel Density Estimation](https://papers.nips.cc/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf), NeurIPS'20
 1. [Exploiting MMD and Sinkhorn Divergences for Fair and Transferable Representation Learning](https://papers.nips.cc/paper/2020/file/af9c0e0c1dee63e5acad8b7ed1a5be96-Paper.pdf), NeurIPS'20
+1. [Rényi Fair Inference](https://openreview.net/pdf?id=HkgsUJrtDB), ICLR'20
 1. [Conditional Learning of Fair Representations](https://openreview.net/pdf?id=Hkekl0NFPr), ICLR'20
 1. [A General Approach to Fairness with Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/5771/5627), AAAI'20
 1. [Fairness Constraints: A Flexible Approach for Fair Classification](https://www.jmlr.org/papers/volume20/18-262/18-262.pdf), JMLR'19
