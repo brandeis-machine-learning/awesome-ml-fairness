@@ -7,6 +7,8 @@
 
 ## Survey
 
+1. [Fairness in Ranking, Part I: Score-based Ranking](https://dl.acm.org/doi/pdf/10.1145/3533379), ACM Computing Surveys'22
+1. [Fairness in Ranking, Part II: Learning-to-Rank and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3533380), ACM Computing Surveys'22
 1. [A survey on datasets for fairness-aware machine learning](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1452), WIREs Data Mining and Knowledge Discovery'22
 1. [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3457607), ACM Computing Surveys'21
 1. [An Overview of Fairness in Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9541160), IEEE Access'21
@@ -25,6 +27,7 @@
 1. [Fairness and Machine Learning: LImitations and Opportunities](https://fairmlbook.org/pdf/fairmlbook.pdf)
 1. [Apple Card algorithm sparks gender bias allegations against Goldman Sachs](https://www.washingtonpost.com/business/2019/11/11/apple-card-algorithm-sparks-gender-bias-allegations-against-goldman-sachs/)
 1. [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://dl.acm.org/doi/pdf/10.1145/3290605.3300830), CHI'19
+1. [Unequal Representation and Gender Stereotypes in Image Search Results for Occupations](https://dl.acm.org/doi/pdf/10.1145/2702123.2702520), CHI'15
 1. [Big Data’s Disparate Impact](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf), California Law Review
 1. [An Analysis of the New York City Police Department’s “Stop-and-Frisk” Policy in the Context of Claims of Racial Bias](http://www.stat.columbia.edu/~gelman/research/published/frisk9.pdf), JASA'07
 1. [What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
