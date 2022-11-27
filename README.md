@@ -85,6 +85,7 @@
 
 ### Tradeoff
 
+1. [Fair Classification and Social Welfare](https://dl.acm.org/doi/pdf/10.1145/3351095.3372857), FAccT'20
 1. [Is There a Trade-Off Between Fairness and Accuracy? A Perspective Using Mismatched Hypothesis Testing](http://proceedings.mlr.press/v119/dutta20a/dutta20a.pdf), ICML'20
 1. [Inherent Tradeoffs in Learning Fair Representations](https://papers.nips.cc/paper/2019/hash/b4189d9de0fb2b9cce090bd1a15e3420-Abstract.html), NeurIPS'19
 1. [The Cost of Fairness in Binary Classification](http://proceedings.mlr.press/v81/menon18a/menon18a.pdf), FAT'18
@@ -207,6 +208,7 @@
 1. [On the Problem of Underranking in Group-Fair Ranking](http://proceedings.mlr.press/v139/gorantla21a/gorantla21a.pdf), ICML'21
 1. [Fairness and Bias in Online Selection](http://proceedings.mlr.press/v139/correa21a/correa21a.pdf), ICML'21
 1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric](https://papers.nips.cc/paper/2019/file/73e0f7487b8e5297182c5a711d20bf26-Paper.pdf), NeurIPS'19
+1. [Balanced Ranking with Diversity Constraints](https://www.ijcai.org/proceedings/2019/0836.pdf), IJCAI'19
 
 ## Generation
 
