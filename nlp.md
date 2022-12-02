@@ -3,7 +3,6 @@
 ## Survey
 
 1. [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://aclanthology.org/2020.acl-main.485.pdf), ACL'20
-1. [Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models](https://aclanthology.org/2022.naacl-main.122.pdf), NAACL'22
 
 ## TBD
 
@@ -15,6 +14,16 @@
 1. [Towards Debiasing Sentence Representations](https://aclanthology.org/2020.acl-main.488.pdf), ACL'20
 1. [Gender Bias in Contextualized Word Embeddings](https://aclanthology.org/N19-1064.pdf), NAACL'19
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://proceedings.neurips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf), NeurIPS'16
+
+## Evaluation
+
+1. [Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models](https://aclanthology.org/2022.naacl-main.122.pdf), NAACL'22
+1. [Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets](https://aclanthology.org/2021.acl-long.81.pdf), ACL'21
+1. [StereoSet: Measuring stereotypical bias in pretrained language models](https://aclanthology.org/2021.acl-long.416.pdf), ACL'21
+1. [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://aclanthology.org/2020.emnlp-main.154.pdf), EMNLP'20
+1. [On Measuring Social Biases in Sentence Encoders](https://aclanthology.org/N19-1063.pdf), NAACL'19
+1. [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://aclanthology.org/N18-2003.pdf), NAACL'18
+1. [Gender Bias in Coreference Resolution](https://aclanthology.org/N18-2002.pdf), NAACL'18
 
 ## Pre-training
 
