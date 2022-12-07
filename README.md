@@ -112,6 +112,7 @@
 
 ## Individual Fairness
 
+1. [Learning Antidote Data to Individual Unfairness](https://arxiv.org/pdf/2211.15897.pdf), arXiv'22
 1. [Metric-Fair Active Learning](https://proceedings.mlr.press/v162/shen22b/shen22b.pdf), ICML'22
 1. [Metric-Fair Classifier Derandomization](https://proceedings.mlr.press/v162/wu22a/wu22a.pdf), ICML'22
 1. [Post-processing for Individual Fairness](https://papers.nips.cc/paper/2021/file/d9fea4ca7e4a74c318ec27c1deb0796c-Paper.pdf), NeurIPS'21
@@ -173,6 +174,7 @@
 
 ## Clustering
 
+1. [Robust Fair Clustering: A Novel Fairness Attack and Defense Framework](https://arxiv.org/pdf/2210.01953.pdf), arXiv'22
 1. [Fair and Fast k-Center Clustering for Data Summarization](https://proceedings.mlr.press/v162/angelidakis22a/angelidakis22a.pdf), ICML'22
 1. [Fair Clustering Under a Bounded Cost](https://papers.nips.cc/paper/2021/file/781877bda0783aac5f1cf765c128b437-Paper.pdf), NeurIPS'21
 1. [Better Algorithms for Individually Fair k-Clustering](https://papers.nips.cc/paper/2021/file/6f221fcb5c504fe96789df252123770b-Paper.pdf), NeurIPS'21
@@ -248,7 +250,7 @@
 
 ## Long-term Impact
 
-1. [Achieving Long-Term Fairness in Sequential Decision Making](file:///home/lallazhao/paper/fairness/long-term/21188-Article%20Text-25201-1-2-20220628.pdf), AAAI'22
+1. [Achieving Long-Term Fairness in Sequential Decision Making](https://ojs.aaai.org/index.php/AAAI/article/view/21188/20937), AAAI'22
 1. [Unintended Selection: Persistent Qualification Rate Disparities and Interventions](https://proceedings.neurips.cc/paper/2021/file/db00f1b7fdf48fd26b5fb5f309e9afaf-Paper.pdf), NeurIPS'21
 1. [How Do Fair Decisions Fare in Long-term Qualification?](https://papers.nips.cc/paper/2020/file/d6d231705f96d5a35aeb3a76402e49a3-Paper.pdf), NeurIPS'20
 1. [The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally](https://dl.acm.org/doi/pdf/10.1145/3351095.3372861), FAccT'20
