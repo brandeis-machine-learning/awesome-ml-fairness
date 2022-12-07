@@ -7,6 +7,7 @@
 
 ## Survey
 
+1. [Fairness in rankings and recommendations: an overview](https://link.springer.com/content/pdf/10.1007/s00778-021-00697-y.pdf?pdf=button), The VLDB Journal'22
 1. [Fairness in Ranking, Part I: Score-based Ranking](https://dl.acm.org/doi/pdf/10.1145/3533379), ACM Computing Surveys'22
 1. [Fairness in Ranking, Part II: Learning-to-Rank and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3533380), ACM Computing Surveys'22
 1. [A survey on datasets for fairness-aware machine learning](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1452), WIREs Data Mining and Knowledge Discovery'22
@@ -15,6 +16,7 @@
 1. [Trustworthy AI: A Computational Perspective](https://arxiv.org/pdf/2107.06641.pdf), arXiv'21
 1. [Algorithm Fairness in AI for Medicine and Healthcare](https://arxiv.org/pdf/2110.00603.pdf), arXiv'21
 1. [Socially Responsible AI Algorithms: Issues, Purposes, and Challenges](https://arxiv.org/pdf/2101.02032.pdf), arXiv'21
+1. [Fairness in learning-based sequential decision algorithms: A survey](https://arxiv.org/pdf/2001.04861.pdf), arXiv'20
 1. [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://aclanthology.org/2020.acl-main.485.pdf), ACL'20
 1. [Fairness in Machine Learning: A Survey](https://arxiv.org/abs/2010.04053), arXiv'20
 1. [The Frontiers of Fairness in Machine Learning](https://arxiv.org/abs/1810.08810), arXiv'18
@@ -161,6 +163,7 @@
 
 ## Online Learning & Bandits
 
+1. [The price of unfairness in linear bandits with biased feedback](https://openreview.net/pdf?id=PCZfDUH8fIn), NeurIPS'22
 1. [Fair Sequential Selection Using Supervised Learning Models](https://papers.nips.cc/paper/2021/file/ed277964a8959e72a0d987e598dfbe72-Paper.pdf), NeurIPS'21
 1. [Online Market Equilibrium with Application to Fair Division](https://papers.nips.cc/paper/2021/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf), NeurIPS'21
 1. [A Unified Approach to Fair Online Learning via Blackwell Approachability](https://papers.nips.cc/paper/2021/file/97ea3cfb64eeaa1edba65501d0bb3c86-Paper.pdf), NeurIPS'21
@@ -201,12 +204,15 @@
 
 ## Ranking
 
+1. [Fair Rank Aggregation](https://openreview.net/pdf?id=xbgtFOO9J5D), NeurIPS'22
+1. [Fair Ranking with Noisy Protected Attributes](https://openreview.net/pdf?id=mTra5BIUyRV), NeurIPS'22
 1. [Individually Fair Rankings](https://openreview.net/pdf?id=71zCSP_HuBN), ICLR'21
 1. [Two-sided fairness in rankings via Lorenz dominance](https://papers.nips.cc/paper/2021/file/48259990138bc03361556fb3f94c5d45-Paper.pdf), NeurIPS'21
 1. [Fairness in Ranking under Uncertainty](https://papers.nips.cc/paper/2021/file/63c3ddcc7b23daa1e42dc41f9a44a873-Paper.pdf), NeurIPS'21
 1. [Fair algorithms for selecting citizens’ assemblies](https://www.nature.com/articles/s41586-021-03788-6.pdf), Nature'21
 1. [On the Problem of Underranking in Group-Fair Ranking](http://proceedings.mlr.press/v139/gorantla21a/gorantla21a.pdf), ICML'21
 1. [Fairness and Bias in Online Selection](http://proceedings.mlr.press/v139/correa21a/correa21a.pdf), ICML'21
+1. [Policy Learning for Fairness in Ranking](https://papers.nips.cc/paper/2019/file/9e82757e9a1c12cb710ad680db11f6f1-Paper.pdf), NeurIPS'19
 1. [The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric](https://papers.nips.cc/paper/2019/file/73e0f7487b8e5297182c5a711d20bf26-Paper.pdf), NeurIPS'19
 1. [Balanced Ranking with Diversity Constraints](https://www.ijcai.org/proceedings/2019/0836.pdf), IJCAI'19
 
@@ -242,8 +248,13 @@
 
 ## Long-term Impact
 
+1. [Achieving Long-Term Fairness in Sequential Decision Making](file:///home/lallazhao/paper/fairness/long-term/21188-Article%20Text-25201-1-2-20220628.pdf), AAAI'22
+1. [Unintended Selection: Persistent Qualification Rate Disparities and Interventions](https://proceedings.neurips.cc/paper/2021/file/db00f1b7fdf48fd26b5fb5f309e9afaf-Paper.pdf), NeurIPS'21
 1. [How Do Fair Decisions Fare in Long-term Qualification?](https://papers.nips.cc/paper/2020/file/d6d231705f96d5a35aeb3a76402e49a3-Paper.pdf), NeurIPS'20
+1. [The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally](https://dl.acm.org/doi/pdf/10.1145/3351095.3372861), FAccT'20
+1. [Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness](https://proceedings.neurips.cc/paper/2019/file/7690dd4db7a92524c684e3191919eb6b-Paper.pdf), NeurIPS'19
 1. [Delayed Impact of Fair Machine Learning](https://proceedings.mlr.press/v80/liu18c/liu18c.pdf), ICML'18
+1. [A Short-term Intervention for Long-term Fairness in the Labor Market](https://dl.acm.org/doi/pdf/10.1145/3178876.3186044), WWW'18
 
 ## Trustworthiness
 
