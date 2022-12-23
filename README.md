@@ -260,11 +260,13 @@
 
 ## Trustworthiness
 
+1. [The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations](https://dl.acm.org/doi/pdf/10.1145/3531146.3533179), FAccT'22
 1. [Differentially Private Empirical Risk Minimization under the Fairness Lens](https://papers.nips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf), NeurIPS'21
 1. [Characterizing the risk of fairwashing](https://papers.nips.cc/paper/2021/file/7caf5e22ea3eb8175ab518429c8589a4-Paper.pdf), NeurIPS'21
 1. [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/file/7ec2442aa04c157590b2fa1a7d093a33-Paper.pdf), NeurIPS'20
 1. [Can I Trust My Fairness Metric? Assessing Fairness with Unlabeled Data and Bayesian Inference](https://papers.nips.cc/paper/2020/file/d83de59e10227072a9c034ce10029c39-Paper.pdf), NeurIPS'20
 1. [You Shouldn’t Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods](http://ceur-ws.org/Vol-2560/paper8.pdf), AAAI'20
+1. [Fairwashing: the risk of rationalization](http://proceedings.mlr.press/v97/aivodji19a/aivodji19a.pdf), ICML'19
 
 ## Auditing
 
