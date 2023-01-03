@@ -260,6 +260,7 @@
 
 ## Trustworthiness
 
+1. [Washing The Unwashable : On The (Im)possibility of Fairwashing Detection](https://openreview.net/pdf?id=3vmKQUctNy), NeurIPS'22
 1. [The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations](https://dl.acm.org/doi/pdf/10.1145/3531146.3533179), FAccT'22
 1. [Differentially Private Empirical Risk Minimization under the Fairness Lens](https://papers.nips.cc/paper/2021/file/e7e8f8e5982b3298c8addedf6811d500-Paper.pdf), NeurIPS'21
 1. [Characterizing the risk of fairwashing](https://papers.nips.cc/paper/2021/file/7caf5e22ea3eb8175ab518429c8589a4-Paper.pdf), NeurIPS'21
