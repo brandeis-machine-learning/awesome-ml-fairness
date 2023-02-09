@@ -58,6 +58,7 @@
 
 ### In-processing
 
+1. [On Learning Fairness and Accuracy on Multiple Subgroups](https://openreview.net/pdf?id=YsRH6uVcx2l), NeurIPS'22
 1. [Fair Representation Learning through Implicit Path Alignment](https://proceedings.mlr.press/v162/shui22a/shui22a.pdf), ICML'22
 1. [Fair Generalized Linear Models with a Convex Penalty](https://proceedings.mlr.press/v162/do22a/do22a.pdf), ICML'22
 1. [Fair Normalizing Flows](https://openreview.net/pdf?id=BrFIKuxrZE), ICLR'22
