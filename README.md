@@ -24,6 +24,8 @@
 
 ## Book, Blog, Case Study, and Introduction
 
+1. [Identifying, measuring, and mitigating individual unfairness for supervised learning models and application to credit risk models](https://arxiv.org/pdf/2211.06106.pdf)
+1. [Assessing and mitigating unfairness in credit models with the Fairlearn toolkit](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/Fairlearn-EY_WhitePaper-2020-09-22.pdf)
 1. [To regulate AI, try playing in a sandbox](https://www.emergingtechbrew.com/stories/2021/05/26/regulate-ai-just-play-sandbox), Emerging Tech Brew
 1. [NSF grant decisions reflect systemic racism, study argues](https://www.science.org/content/article/nsf-grant-decisions-reflect-systemic-racism-study-argues)
 1. [Fairness and Machine Learning: LImitations and Opportunities](https://fairmlbook.org/pdf/fairmlbook.pdf)
