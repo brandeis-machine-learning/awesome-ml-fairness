@@ -1,8 +1,37 @@
 # Awesome Machine Learning Fairness [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Online resources on machine learning fairness.  
+> Research papers and online resources on **machine learning fairness**.  
 > If I miss your paper, please let me know!  
 > Contact: *peizhaoli@brandeis.edu*
+
+## Table of Contents
+
+1. [Survey](#survey)
+1. [Book, Blog, Case Study, and Introduction](#book-blog-case-study-and-introduction)
+1. [Group Fairness in Classification](#group-fairness-in-classification)
+1. [Individual Fairness](#individual-fairness)
+1. [Minimax Fairness](#minimax-fairness)
+1. [Counterfactual Fairness](#counterfactual-fairness)
+1. [Graph Mining](#graph-mining)
+1. [Online Learning & Bandits](#online-learning--bandits)
+1. [Clustering](#clustering)
+1. [Regression](#regression)
+1. [Outlier Detection](#outlier-detection)
+1. [Ranking](#ranking)
+1. [Generation](#generation)
+1. [Fairness and Robustness](#fairness-and-robustness)
+1. [Transfer & Federated Learning](#transfer--federated-learning)
+1. [Long-term Impact](#long-term-impact)
+1. [Trustworthiness](#trustworthiness)
+1. [Auditing](#auditing)
+1. [Empirical Study](#empirical-study)
+1. [Software Engineering](#software-engineering)
+1. [Library & Toolkit](#library--toolkit)
+1. [Dataset](#dataset)
+
+For fairness & bias in **computer vision** & **natural language processing**, please refer to:
+1. [Computer Vision](cv.md)
+2. [Natural Language Processing](nlp.md)
 
 
 ## Survey
@@ -278,15 +307,6 @@
 1. [Statistical inference for individual fairness](https://openreview.net/forum?id=z9k8BWL-_2u), ICLR'21
 1. [Verifying Individual Fairness in Machine Learning Models](https://auai.org/uai2020/proceedings/327_main_paper.pdf), UAI'20
 
-## Computer Vision
-
-1. [Leveling Down in Computer Vision: Pareto Inefficiencies in Fair Deep Classifiers](https://openaccess.thecvf.com/content/CVPR2022/papers/Zietlow_Leveling_Down_in_Computer_Vision_Pareto_Inefficiencies_in_Fair_Deep_CVPR_2022_paper.pdf), CVPR'22
-1. [Fair Contrastive Learning for Facial Attribute Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Fair_Contrastive_Learning_for_Facial_Attribute_Classification_CVPR_2022_paper.pdf), CVPR'22
-1. [Learning Fair Classifiers with Partially Annotated Group Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Jung_Learning_Fair_Classifiers_With_Partially_Annotated_Group_Labels_CVPR_2022_paper.pdf), CVPR'22
-1. [Fairness-aware Adversarial Perturbation Towards Bias Mitigation for Deployed Deep Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Fairness-Aware_Adversarial_Perturbation_Towards_Bias_Mitigation_for_Deployed_Deep_Models_CVPR_2022_paper.pdf), CVPR'22
-
-## [Natural Language Processing](nlp.md)
-
 ## Empirical Study
 
 1. [Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training](https://papers.nips.cc/paper/2021/file/fdda6e957f1e5ee2f3b311fe4f145ae1-Paper.pdf), NeurIPS'21
@@ -296,8 +316,9 @@
 
 1. [Fairway: A Way to Build Fair ML Software](https://dl.acm.org/doi/pdf/10.1145/3368089.3409697), FSE'20
 
-## Toolkit
+## Library & Toolkit
 
+1. [FairPy: A Python Library for Machine Learning Fairness](https://github.com/brandeis-machine-learning/FairPy), Brandeis University
 1. [AI Fairness 360](https://aif360.mybluemix.net/), IBM Research
 1. [Fairlearn: A toolkit for assessing and improving fairness in AI](https://www.microsoft.com/en-us/research/publication/fairlearn-a-toolkit-for-assessing-and-improving-fairness-in-ai/), Microsoft Research
 1. [fairpy: An open-source library of fair division algorithms in Python](https://github.com/erelsgl/fairpy), Ariel University

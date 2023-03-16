@@ -1,0 +1,6 @@
+# Awesome Machine Learning Fairness - Computer Vision
+
+1. [Leveling Down in Computer Vision: Pareto Inefficiencies in Fair Deep Classifiers](https://openaccess.thecvf.com/content/CVPR2022/papers/Zietlow_Leveling_Down_in_Computer_Vision_Pareto_Inefficiencies_in_Fair_Deep_CVPR_2022_paper.pdf), CVPR'22
+1. [Fair Contrastive Learning for Facial Attribute Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Fair_Contrastive_Learning_for_Facial_Attribute_Classification_CVPR_2022_paper.pdf), CVPR'22
+1. [Learning Fair Classifiers with Partially Annotated Group Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Jung_Learning_Fair_Classifiers_With_Partially_Annotated_Group_Labels_CVPR_2022_paper.pdf), CVPR'22
+1. [Fairness-aware Adversarial Perturbation Towards Bias Mitigation for Deployed Deep Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Fairness-Aware_Adversarial_Perturbation_Towards_Bias_Mitigation_for_Deployed_Deep_Models_CVPR_2022_paper.pdf), CVPR'22
