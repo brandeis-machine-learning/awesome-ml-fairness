@@ -258,12 +258,13 @@ For fairness & bias in **computer vision** & **natural language processing**, pl
 
 ## Fairness and Robustness
 
-1. [Robust Fair Clustering: A Novel Fairness Attack and Defense Framework](https://arxiv.org/pdf/2210.01953.pdf), arXiv'22
+1. [Robust Fair Clustering: A Novel Fairness Attack and Defense Framework](https://openreview.net/forum?id=4LMIZY7gt7h), ICLR'23
 1. [Fair Classification with Adversarial Perturbations](https://papers.nips.cc/paper/2021/file/44e207aecc63505eb828d442de03f2e9-Paper.pdf), NeurIPS'21
 1. [Sample Selection for Fair and Robust Training](https://papers.nips.cc/paper/2021/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf), NeurIPS'21
 1. [Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees](http://proceedings.mlr.press/v139/celis21a/celis21a.pdf), ICML'21
 1. [To be Robust or to be Fair: Towards Fairness in Adversarial Training](http://proceedings.mlr.press/v139/xu21b/xu21b.pdf), ICML'21
 1. [Exacerbating Algorithmic Bias through Fairness Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/17080/16887), AAAI'21
+1. [Fair Classification with Group-Dependent Label Noise](https://dl.acm.org/doi/pdf/10.1145/3442188.3445915), FAccT'21
 1. [Robust Optimization for Fairness with Noisy Protected Groups](https://papers.nips.cc/paper/2020/file/37d097caf1299d9aa79c2c2b843d2d78-Paper.pdf), NeurIPS'20
 1. [FR-Train: A Mutual Information-Based Approach to Fair and Robust Training](http://proceedings.mlr.press/v119/roh20a/roh20a.pdf), ICML'20
 1. [Poisoning Attacks on Algorithmic Fairness](https://repositori.upf.edu/bitstream/handle/10230/47626/solans_ecmlpkdd_poiso.pdf?sequence=1&isAllowed=y), ECML'20
