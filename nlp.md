@@ -6,6 +6,7 @@
 
 ## Algorithm
 
+1. [MABEL: Attenuating Gender Bias using Textual Entailment Data](https://aclanthology.org/2022.emnlp-main.657.pdf), EMNLP'22
 1. [Features or Spurious Artifacts? Data-centric Baselines for Fair and Robust Hate Speech Detection](https://aclanthology.org/2022.naacl-main.221.pdf), NAACL'22
 1. [Towards Understanding and Mitigating Social Biases in Language Models](http://proceedings.mlr.press/v139/liang21a/liang21a.pdf), ICML'21
 1. [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/pdf?id=N6JECD-PI5w), ICLR'21
